@@ -1,0 +1,218 @@
+/* Basic Reset & Mobile First Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    background-color: #f8f9fa; /* Lighter background */
+    color: #343a40; /* Darker text */
+    padding: 15px;
+    max-width: 800px; /* Limit width on larger screens */
+    margin: 0 auto; /* Center on larger screens */
+}
+
+header {
+    background-color: #00539C; /* Royal Blue */
+    color: #fff;
+    padding: 20px 15px;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+header h1 {
+    margin-bottom: 5px;
+}
+
+header p {
+    font-size: 0.9em;
+}
+
+header a, footer a {
+    color: #A0C4FF; /* Lighter blue for links */
+    text-decoration: none;
+}
+header a:hover, footer a:hover {
+     text-decoration: underline;
+}
+
+/* Main Navigation (Index Page) */
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+nav li {
+    margin-bottom: 10px;
+}
+
+nav a {
+    display: block;
+    background-color: #fff;
+    color: #00539C; /* Royal Blue */
+    padding: 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    border: 1px solid #dee2e6; /* Light grey border */
+    font-weight: bold;
+}
+
+nav a:hover {
+    background-color: #e9ecef; /* Light grey hover */
+}
+
+/* Meal Filter Navigation */
+.filter-nav {
+    display: flex;
+    flex-wrap: wrap; /* Allow buttons to wrap on small screens */
+    gap: 8px; /* Space between buttons */
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.filter-btn {
+    padding: 8px 15px;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #00539C; /* Royal Blue text */
+    background-color: #fff; /* White background */
+    border: 1px solid #00539C; /* Royal Blue border */
+    border-radius: 20px; /* Pill shape */
+    cursor: pointer;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.filter-btn:hover {
+    background-color: #E6F0FF; /* Very light blue hover */
+    border-color: #004180; /* Darker blue border on hover */
+}
+
+.filter-btn.active {
+    background-color: #00539C; /* Royal Blue background for active */
+    color: #fff; /* White text for active */
+    border-color: #00539C;
+}
+
+/* Main Content Area */
+main {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #dee2e6;
+}
+
+h2 {
+    color: #00539C; /* Royal Blue */
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #e9ecef; /* Lighter border */
+    padding-bottom: 5px;
+}
+
+main ul {
+    list-style: disc;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+main ul ul {
+     margin-top: 5px;
+     margin-bottom: 5px;
+     list-style: circle;
+     margin-left: 25px; /* Indent sub-lists */
+}
+
+
+main li {
+    margin-bottom: 8px;
+}
+
+main p {
+     margin-bottom: 10px;
+}
+
+/* Meal Page Specific Styles */
+.instructions {
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 0.9em;
+    color: #6c757d; /* Grey text */
+}
+
+.meal-item {
+    border: 1px solid #dee2e6; /* Light grey border */
+    margin-bottom: 15px;
+    border-radius: 5px;
+    overflow: hidden; 
+    /* Add transition for smooth showing/hiding */
+    /* transition: opacity 0.3s ease, max-height 0.3s ease; */
+    /* max-height: 1000px; */ /* Start visible */
+    /* opacity: 1; */
+}
+/* Hide elements not matching filter - handled by JS now */
+.meal-item.hidden {
+     display: none;
+     /* opacity: 0; */
+     /* max-height: 0; */
+     /* margin-bottom: 0; */ /* Collapse margin when hidden */
+     /* border: none; */ /* Hide border when hidden */
+ }
+
+
+.meal-toggle {
+    background-color: #E6F0FF; /* Very Light Blue background */
+    padding: 10px 15px;
+    margin: 0;
+    cursor: pointer;
+    font-size: 1.1em;
+    color: #00539C; /* Royal Blue */
+    font-weight: bold;
+    border: none; 
+    /* border-bottom: 1px solid #dee2e6; */ /* Add border only if content is hidden, or always? */
+}
+.meal-toggle:hover {
+    background-color: #D0E0FF; /* Slightly darker light blue on hover */
+}
+
+.recipe-content {
+    padding: 15px;
+    display: none; /* Hidden by default */
+    background-color: #fff; /* Ensure background */
+    border-top: 1px solid #e9ecef; /* Separator line */
+}
+
+.recipe-content h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #495057; /* Darker grey */
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.recipe-content ul {
+    margin-bottom: 0; /* Remove extra space at the bottom */
+}
+
+/* Class to show the recipe content */
+.recipe-content.visible {
+    display: block;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 0.9em;
+    color: #6c757d; /* Grey text */
+}
+
+strong {
+     font-weight: bold;
+}
