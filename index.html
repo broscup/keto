@@ -1,31 +1,71 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Strict Keto Meal Plan</title>
+    <title>Watts for Supper? Keto Edition</title>
     <link rel="stylesheet" href="style.css">
     <link rel="manifest" href="manifest.json">
-    <meta name="theme-color" content="#00539C"> 
 </head>
 <body>
     <header>
-        <h1>Strict Keto Meal Plan</h1>
-        <p>Keto Recipes for Meal Planning and Preperation</p>
-    </header>
+        <h1>Watts for Supper?</h1>
+        <h2 class="subtitle">Keto Edition</h2>
+        
     
     <nav>
-        <ul>
-            <li><a href="meals.html">Browse Meals</a></li>
-            <li><a href="snacks.html">Snacks & Treats</a></li>
-            <li><a href="drinks.html">Drinks Guide</a></li>
-            <li><a href="notes.html">Important Notes</a></li>
-        </ul>
+        <button id="nav-all" onclick="showAll()">All</button>
+        <button id="nav-category" onclick="showByCategory()">By Category</button>
+        <button id="protein-reset" onclick="clearProtein()">✅ All proteins shown</button>
+        <button id="nav-info" onclick="showKetoInfo()">Keto Info</button>
     </nav>
-
+    
+    
+        <div class="controls">
+            <input type="text" id="search" placeholder="Search recipes..." oninput="searchRecipes()">
+            <select id="protein-filter" onchange="filterProtein()">
+                <option value="" disabled selected>Choose your protein</option>
+                <option value="">All Proteins</option>
+                <option value="Beef">Beef</option>
+                <option value="Chicken">Chicken</option>
+                <option value="Pork">Pork</option>
+                <option value="Fish/Seafood">Fish/Seafood</option>
+                <option value="Egg/Other">Egg/Other</option>
+            </select>
+        </div>
+    </header>
+    <main id="content-area">
+        <div id="recipe-list"></div>
+        <div id="category-list" style="display:none;"></div>
+        <div id="single-recipe" style="display:none;"></div>
+        <div id="keto-info" style="display:none;">
+<h2>Keto Tips & Information</h2>
+<p><strong>General Keto Tips:</strong></p>
+<ul>
+    <li>Focus on whole foods: meats, leafy greens, and healthy fats.</li>
+    <li>Stay hydrated and replenish electrolytes (sodium, potassium, magnesium).</li>
+    <li>Track your carb intake — stay below 20–50g net carbs daily depending on your goals.</li>
+    <li>Don’t fear fats. Incorporate healthy fats like olive oil, avocado, butter, and coconut oil.</li>
+</ul>
+<p><strong>Drink Guide:</strong></p>
+<ul>
+    <li>Water (still or sparkling)</li>
+    <li>Black coffee or coffee with heavy cream</li>
+    <li>Unsweetened tea</li>
+    <li>Diet sodas and flavored waters without carbs (use sparingly)</li>
+</ul>
+<p>For more in-depth keto guides, visit:</p>
+<ul>
+    <li><a href="https://www.dietdoctor.com/low-carb/keto" target="_blank">Diet Doctor</a></li>
+    <li><a href="https://www.ruled.me/guide-keto-diet/" target="_blank">Ruled.me</a></li>
+    <li><a href="https://www.healthline.com/nutrition/ketogenic-diet-101" target="_blank">Healthline Keto Guide</a></li>
+</ul>
+</div>
+    </main>
     <footer>
-        <p>Your Mobile Keto Guide</p>
+        <p>&copy; 2025 Watts for Supper? Keto Edition</p>
     </footer>
-
+    <script src="app.js"></script>
 </body>
 </html>
