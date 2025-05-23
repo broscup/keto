@@ -5329,6 +5329,2272 @@
         "Serve hot directly from the sheet pan. This is a very quick and satisfying weeknight meal."
       ],
       "notes": "Recipe 200 - Garlic Parmesan Roasted Broccoli and Sausage - Main Course"
+    },
+    {
+      "name": "Avocado Egg Boats",
+      "category": "Breakfast",
+      "protein": "Eggs",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Nutrient-dense and satisfying baked avocado halves filled with eggs and your favorite toppings.",
+      "ingredients": [
+        "2 ripe avocados",
+        "4 large eggs",
+        "Salt and freshly ground black pepper to taste",
+        "Optional toppings: 2 slices cooked bacon (crumbled), 1 tablespoon chopped chives, shredded cheese, everything bagel seasoning"
+      ],
+      "instructions": [
+        "Preheat oven to 400°F (200°C).",
+        "Halve the avocados lengthwise and remove the pits.",
+        "Scoop out a small amount of avocado flesh from the center of each half to make a well large enough to hold an egg. (You can save the scooped avocado for another use).",
+        "Place the avocado halves in a baking dish or on a baking sheet, ensuring they are stable (you can slice a tiny bit off the bottom to make them sit flat).",
+        "Carefully crack one egg into the well of each avocado half.",
+        "Season with salt and pepper.",
+        "Sprinkle with desired optional toppings like crumbled bacon, chives, or cheese.",
+        "Bake for 15-20 minutes, or until the egg whites are set but the yolks are still slightly runny (or cooked to your preference).",
+        "Let cool slightly before serving."
+      ],
+      "notes": "Recipe 201 - Avocado Egg Boats - Breakfast"
+    },
+    {
+      "name": "Sausage and Cheese Stuffed Mushrooms",
+      "category": "Appetizers/Snacks",
+      "protein": "Pork/Cheese",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "Savory mushrooms stuffed with a delicious mixture of keto sausage and cheese.",
+      "ingredients": [
+        "1 lb large cremini or white button mushrooms",
+        "1/2 lb ground keto-friendly sausage (e.g., Italian or breakfast sausage, no sugar added)",
+        "4 oz cream cheese, softened",
+        "1/4 cup grated Parmesan cheese",
+        "1-2 cloves garlic, minced",
+        "1 tablespoon chopped fresh parsley or 1 teaspoon dried Italian seasoning",
+        "Salt and freshly ground black pepper to taste",
+        "Optional: 2 tablespoons olive oil for brushing mushroom caps"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C).",
+        "Clean mushrooms and gently remove the stems. Finely chop the stems.",
+        "If desired, lightly brush the mushroom caps with olive oil and place them cavity-side up in a baking dish.",
+        "In a skillet over medium heat, cook the ground sausage until browned, breaking it apart with a spoon. Drain any excess fat.",
+        "Add the chopped mushroom stems and minced garlic to the skillet with the sausage. Cook for 3-5 minutes until stems are softened.",
+        "Remove from heat. Stir in the softened cream cheese, grated Parmesan cheese, parsley or Italian seasoning, salt, and pepper. Mix until well combined.",
+        "Spoon the sausage and cheese mixture generously into each mushroom cap.",
+        "Bake for 15-20 minutes, or until the mushrooms are tender and the filling is hot and lightly browned.",
+        "Let cool slightly before serving."
+      ],
+      "notes": "Recipe 202 - Sausage and Cheese Stuffed Mushrooms - Appetizers/Snacks"
+    },
+    {
+      "name": "Prosciutto-Wrapped Asparagus",
+      "category": "Appetizers/Snacks",
+      "protein": "Pork",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Tender asparagus spears wrapped in salty prosciutto, a simple and elegant appetizer or side.",
+      "ingredients": [
+        "1 lb fresh asparagus spears, tough ends trimmed",
+        "4-6 oz thinly sliced prosciutto (about 12-16 slices)",
+        "1 tablespoon olive oil",
+        "Optional: Freshly ground black pepper"
+      ],
+      "instructions": [
+        "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+        "Wash and trim the asparagus spears.",
+        "Wrap each asparagus spear (or a small bundle of 2-3 thinner spears) with a slice of prosciutto, starting from the bottom and spiraling up.",
+        "Arrange the prosciutto-wrapped asparagus in a single layer on the prepared baking sheet.",
+        "Drizzle lightly with olive oil and sprinkle with black pepper if desired (prosciutto is already salty).",
+        "Bake for 10-15 minutes, or until the prosciutto is slightly crispy and the asparagus is tender-crisp. Cooking time will depend on the thickness of the asparagus.",
+        "Serve warm or at room temperature."
+      ],
+      "notes": "Recipe 203 - Prosciutto-Wrapped Asparagus - Appetizers/Snacks"
+    },
+    {
+      "name": "Everything Bagel Seasoning Fat Bombs",
+      "category": "Appetizers/Snacks",
+      "protein": "Cheese",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Savory fat bombs with cream cheese and the delicious flavor of everything bagel seasoning.",
+      "ingredients": [
+        "8 oz cream cheese, softened",
+        "2 tablespoons unsalted butter, softened",
+        "2-3 tablespoons Everything Bagel Seasoning, plus more for rolling (optional)",
+        "Optional: 1/4 cup shredded sharp cheddar cheese"
+      ],
+      "instructions": [
+        "In a medium bowl, combine softened cream cheese and softened butter. Beat with an electric mixer or stir vigorously until smooth and well combined.",
+        "Stir in 2-3 tablespoons of Everything Bagel Seasoning and shredded cheddar cheese (if using). Mix until evenly distributed.",
+        "Chill the mixture in the refrigerator for about 20-30 minutes to firm up slightly, making it easier to roll.",
+        "Roll the mixture into small balls (about 1 inch in diameter).",
+        "If desired, roll the formed fat bombs in additional Everything Bagel Seasoning for an extra coating.",
+        "Place on a parchment-lined plate and freeze for at least 30 minutes, or until firm.",
+        "Store in an airtight container in the refrigerator or freezer."
+      ],
+      "notes": "Recipe 204 - Everything Bagel Seasoning Fat Bombs - Appetizers/Snacks"
+    },
+    {
+      "name": "Simple Cream Cheese Pancakes",
+      "category": "Breakfast",
+      "protein": "Eggs/Cheese",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Delicate and slightly sweet keto pancakes made primarily with cream cheese and eggs.",
+      "ingredients": [
+        "4 oz cream cheese, full-fat, softened to room temperature",
+        "4 large eggs",
+        "1-2 tablespoons keto-friendly sweetener (e.g., powdered erythritol, or to taste)",
+        "1/2 teaspoon vanilla extract",
+        "Optional: 1/4 teaspoon ground cinnamon",
+        "Butter or coconut oil for greasing the skillet"
+      ],
+      "instructions": [
+        "In a blender or using a hand mixer, combine softened cream cheese, eggs, sweetener, vanilla extract, and cinnamon (if using).",
+        "Blend or beat until the batter is completely smooth and no lumps of cream cheese remain.",
+        "Let the batter rest for a couple of minutes.",
+        "Heat a lightly buttered or oiled non-stick skillet or griddle over medium-low heat.",
+        "Pour small circles of batter (about 2-3 tablespoons each, or 3-4 inches in diameter) onto the hot skillet. These pancakes are thinner and more delicate than traditional flour-based pancakes.",
+        "Cook for 2-3 minutes per side, until golden brown and set. Flip carefully with a thin spatula.",
+        "Serve warm with butter, keto-friendly syrup, fresh berries, or whipped cream."
+      ],
+      "notes": "Recipe 205 - Simple Cream Cheese Pancakes - Breakfast"
+    },
+    {
+      "name": "90-Second Microwave Bread",
+      "category": "Breakfast",
+      "protein": "Eggs",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A super quick single-serving keto bread made in the microwave, perfect for a quick toast or sandwich base.",
+      "ingredients": [
+        "1 tablespoon butter or coconut oil",
+        "3 tablespoons almond flour (or 1 tablespoon coconut flour - may need slight liquid adjustment)",
+        "1 large egg",
+        "1/2 teaspoon baking powder",
+        "Pinch of salt"
+      ],
+      "instructions": [
+        "In a microwave-safe mug, ramekin (about 4 inches wide), or small square/round microwaveable container, melt the butter or coconut oil (about 20-30 seconds).",
+        "Add the almond flour (or coconut flour), egg, baking powder, and salt to the melted butter in the mug.",
+        "Mix thoroughly with a fork until a smooth batter forms, ensuring there are no lumps.",
+        "Microwave on high for 90 seconds. (Microwave times can vary; if it seems wet, add 10-15 more seconds). The bread will puff up and should be cooked through.",
+        "Let cool in the mug for a minute or two, then carefully run a knife around the edges and tip it out onto a plate.",
+        "You can slice it in half (like a muffin) and toast it if desired. Use for sandwiches, with butter, or as a side."
+      ],
+      "notes": "Recipe 206 - 90-Second Microwave Bread - Breakfast"
+    },
+    {
+      "name": "Homemade Keto Granola",
+      "category": "Breakfast",
+      "protein": "N/A",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Crunchy, homemade keto granola packed with nuts and seeds, perfect with keto yogurt or almond milk.",
+      "ingredients": [
+        "1 cup mixed raw nuts (e.g., almonds, pecans, walnuts, chopped or slivered)",
+        "1/2 cup mixed raw seeds (e.g., pumpkin seeds, sunflower seeds, hemp hearts)",
+        "1/2 cup unsweetened shredded coconut",
+        "2-3 tablespoons keto-friendly granulated sweetener (e.g., erythritol or monk fruit blend)",
+        "1/4 teaspoon ground cinnamon",
+        "Pinch of salt",
+        "2 tablespoons melted coconut oil or butter",
+        "1/2 teaspoon vanilla extract",
+        "Optional: 1 tablespoon chia seeds or flaxseed meal"
+      ],
+      "instructions": [
+        "Preheat oven to 300°F (150°C). Line a large baking sheet with parchment paper.",
+        "In a large bowl, combine the mixed nuts, seeds, shredded coconut, sweetener, cinnamon, and salt. Add chia/flax if using. Stir to mix.",
+        "In a small bowl, whisk together the melted coconut oil (or butter) and vanilla extract.",
+        "Pour the wet ingredients over the dry ingredients and stir well until everything is evenly coated.",
+        "Spread the granola mixture in a thin, even layer on the prepared baking sheet.",
+        "Bake for 20-25 minutes, stirring gently halfway through, until the granola is golden brown and fragrant. Watch carefully in the last few minutes to prevent burning.",
+        "Remove from oven and let the granola cool completely on the baking sheet without stirring. It will crisp up as it cools.",
+        "Once cooled, break into clusters or pieces. Store in an airtight container at room temperature for up to 1-2 weeks."
+      ],
+      "notes": "Recipe 207 - Homemade Keto Granola - Breakfast"
+    },
+    {
+      "name": "Zucchini Fritters with Garlic Aioli",
+      "category": "Appetizers/Snacks",
+      "protein": "Eggs",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "Savory zucchini fritters, perfect as an appetizer, side, or light meal, served with a simple garlic aioli.",
+      "ingredients": [
+        "For the Zucchini Fritters:",
+        "2 medium zucchinis (about 1 lb total), grated",
+        "1 teaspoon salt (for drawing out moisture)",
+        "1 large egg, beaten",
+        "1/4 cup almond flour",
+        "2 tablespoons grated Parmesan cheese",
+        "1 tablespoon chopped fresh parsley or chives",
+        "1/4 teaspoon garlic powder",
+        "Freshly ground black pepper to taste",
+        "2-3 tablespoons olive oil or avocado oil for frying",
+        "For the Garlic Aioli:",
+        "1/4 cup mayonnaise",
+        "1 small clove garlic, minced or pressed",
+        "1 teaspoon lemon juice",
+        "Pinch of salt"
+      ],
+      "instructions": [
+        "Prepare Zucchini: Place grated zucchini in a colander over a bowl. Sprinkle with 1 teaspoon of salt and let sit for 20-30 minutes to draw out excess moisture. Squeeze the zucchini very well (using your hands, a clean kitchen towel, or cheesecloth) to remove as much liquid as possible. This is crucial for crispy fritters.",
+        "Make Fritter Batter: In a medium bowl, combine the squeezed zucchini, beaten egg, almond flour, Parmesan cheese, parsley/chives, garlic powder, and black pepper. Mix until well combined.",
+        "Cook Fritters: Heat olive oil or avocado oil in a large non-stick skillet over medium heat.",
+        "Drop spoonfuls (about 2 tablespoons each) of the zucchini mixture into the hot skillet, flattening them slightly with the back of the spoon to form small patties.",
+        "Cook for 3-5 minutes per side, until golden brown, crispy, and cooked through. Do not overcrowd the pan; cook in batches if necessary.",
+        "Transfer cooked fritters to a paper towel-lined plate to drain any excess oil.",
+        "Make Garlic Aioli: In a small bowl, whisk together mayonnaise, minced/pressed garlic, lemon juice, and a pinch of salt until smooth.",
+        "Serve zucchini fritters warm with the garlic aioli for dipping. These are great for family snacking or as a side."
+      ],
+      "notes": "Recipe 208 - Zucchini Fritters with Garlic Aioli - Appetizers/Snacks"
+    },
+    {
+      "name": "Sausage and Kale Soup (Zuppa Toscana Style)",
+      "category": "Soups and Salads",
+      "protein": "Pork",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "A keto version of the popular Italian sausage, kale, and 'potato' soup, using cauliflower for texture.",
+      "ingredients": [
+        "1 lb keto-friendly Italian sausage (mild or spicy, casings removed if in links)",
+        "1 tablespoon olive oil or bacon grease",
+        "1 small onion, chopped (optional)",
+        "2-3 cloves garlic, minced",
+        "4 cups chicken broth",
+        "1 small head cauliflower, cut into small, bite-sized florets",
+        "1 bunch kale, stems removed and leaves chopped (about 4-5 cups)",
+        "1/2 cup heavy cream",
+        "Salt and freshly ground black pepper to taste",
+        "Optional: Pinch of red pepper flakes for heat, grated Parmesan cheese for serving"
+      ],
+      "instructions": [
+        "Heat olive oil or bacon grease in a large pot or Dutch oven over medium heat.",
+        "Add the Italian sausage and cook, breaking it apart with a spoon, until browned. If using onion, add it with the sausage and cook until softened. Drain any excess fat if necessary.",
+        "Stir in minced garlic and cook for 1 minute more until fragrant.",
+        "Pour in chicken broth and add the cauliflower florets. Bring to a simmer.",
+        "Cook for 10-15 minutes, or until the cauliflower is tender.",
+        "Stir in the chopped kale and cook for another 3-5 minutes, until the kale is wilted and tender.",
+        "Reduce heat to low. Stir in the heavy cream. Heat through gently, but do not let the soup boil after adding the cream.",
+        "Season with salt, pepper, and red pepper flakes (if using) to taste.",
+        "Ladle into bowls and serve hot, garnished with grated Parmesan cheese if desired. A hearty and comforting family soup."
+      ],
+      "notes": "Recipe 209 - Sausage and Kale Soup (Zuppa Toscana Style) - Soups and Salads"
+    },
+    {
+      "name": "Butter Chicken (Simplified Keto)",
+      "category": "Main Course",
+      "protein": "Chicken",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "A rich and creamy keto version of the classic Indian butter chicken, simplified for a weeknight.",
+      "ingredients": [
+        "1.5 lbs boneless, skinless chicken thighs or breasts, cut into 1-inch pieces",
+        "Marinade:",
+        "1/4 cup full-fat plain Greek yogurt (check carbs) or coconut cream",
+        "1 tablespoon lemon juice",
+        "1 teaspoon grated fresh ginger",
+        "2 cloves garlic, minced",
+        "1 teaspoon garam masala",
+        "1/2 teaspoon turmeric powder",
+        "1/2 teaspoon salt",
+        "Sauce:",
+        "2 tablespoons butter or ghee",
+        "1 small onion, finely chopped (optional)",
+        "1 (14.5 oz) can tomato sauce or crushed tomatoes (no sugar added)",
+        "1 teaspoon garam masala",
+        "1/2 teaspoon ground cumin",
+        "1/2 cup heavy cream",
+        "Keto-friendly sweetener to taste (optional, to balance acidity)",
+        "Fresh cilantro, chopped (for garnish)"
+      ],
+      "instructions": [
+        "Marinate Chicken: In a bowl, combine chicken pieces with all marinade ingredients (yogurt/coconut cream, lemon juice, ginger, garlic, garam masala, turmeric, salt). Mix well, cover, and refrigerate for at least 20-30 minutes (or up to a few hours).",
+        "Cook Chicken: Heat 1 tablespoon of butter/ghee in a large skillet or Dutch oven over medium-high heat. Add marinated chicken (shake off excess marinade) and cook in batches until browned on all sides and mostly cooked through. Remove chicken and set aside.",
+        "Make Sauce: In the same skillet, add the remaining 1 tablespoon of butter/ghee. If using onion, add it and cook until softened (about 3-5 minutes).",
+        "Stir in tomato sauce/crushed tomatoes, 1 teaspoon garam masala, and ground cumin. Bring to a simmer and cook for 5-7 minutes, stirring occasionally.",
+        "Reduce heat to low. Stir in heavy cream and sweetener (if using). Simmer gently for another 2-3 minutes until the sauce thickens slightly.",
+        "Return the cooked chicken to the sauce. Stir to coat and simmer for 5 more minutes, or until chicken is heated through and tender.",
+        "Taste and adjust seasonings if needed.",
+        "Garnish with fresh chopped cilantro. Serve hot with cauliflower rice or keto naan bread. A family favorite."
+      ],
+      "notes": "Recipe 210 - Butter Chicken (Simplified Keto) - Main Course"
+    },
+    {
+      "name": "Zucchini Noodle Lasagna Bake",
+      "category": "Main Course",
+      "protein": "Beef/Cheese",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "A low-carb lasagna using zucchini slices instead of pasta, layered with a savory meat sauce and rich cheese filling.",
+      "ingredients": [
+        "2-3 medium zucchinis, thinly sliced lengthwise (about 1/8-inch thick, a mandoline works best)",
+        "1 lb ground beef or Italian sausage",
+        "1/2 cup chopped onion (optional)",
+        "2 cloves garlic, minced",
+        "1.5 cups keto-friendly marinara sauce (no sugar added)",
+        "1 teaspoon dried Italian seasoning",
+        "15 oz whole milk ricotta cheese (check carbs)",
+        "1 large egg, beaten",
+        "1/2 cup grated Parmesan cheese",
+        "2 cups shredded mozzarella cheese",
+        "Salt and freshly ground black pepper to taste",
+        "Fresh basil or parsley, chopped (for garnish)"
+      ],
+      "instructions": [
+        "Prepare Zucchini: Lay zucchini slices on paper towels, sprinkle lightly with salt, and let sit for 15-20 minutes to draw out excess moisture. Pat dry thoroughly with paper towels.",
+        "Make Meat Sauce: In a large skillet, cook ground beef/sausage and onion (if using) over medium heat until meat is browned. Drain any excess fat. Stir in minced garlic and cook for 1 minute. Add marinara sauce and Italian seasoning. Simmer for 10-15 minutes. Season with salt and pepper.",
+        "Prepare Cheese Filling: In a medium bowl, combine ricotta cheese, beaten egg, Parmesan cheese, and a pinch of salt and pepper. Mix well.",
+        "Assemble Lasagna: Preheat oven to 375°F (190°C). Spread a thin layer of meat sauce in the bottom of a 9x13 inch baking dish.",
+        "Arrange a layer of zucchini slices over the sauce, slightly overlapping them.",
+        "Spread half of the ricotta cheese mixture over the zucchini.",
+        "Top with half of the remaining meat sauce, then half of the shredded mozzarella cheese.",
+        "Repeat layers: zucchini, remaining ricotta, remaining meat sauce, and remaining mozzarella cheese.",
+        "Bake: Cover with foil and bake for 25 minutes. Remove foil and bake for another 15-20 minutes, or until bubbly and the cheese is melted and golden brown.",
+        "Let Rest: Let the lasagna rest for 10-15 minutes before slicing and serving. This helps it hold its shape. Garnish with fresh basil or parsley."
+      ],
+      "notes": "Recipe 211 - Zucchini Noodle Lasagna Bake - Main Course"
+    },
+    {
+      "name": "Pan-Seared Scallops with Lemon Caper Sauce",
+      "category": "Main Course",
+      "protein": "Fish/Seafood",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "Tender and perfectly seared scallops in a simple yet elegant lemon butter and caper sauce.",
+      "ingredients": [
+        "1 lb large sea scallops, side muscle removed",
+        "2 tablespoons unsalted butter, divided",
+        "1 tablespoon olive oil",
+        "2 cloves garlic, minced",
+        "1/4 cup chicken broth or dry white wine (optional)",
+        "2 tablespoons fresh lemon juice",
+        "1-2 tablespoons capers, drained",
+        "1 tablespoon chopped fresh parsley",
+        "Salt and freshly ground black pepper to taste"
+      ],
+      "instructions": [
+        "Thoroughly pat the scallops dry with paper towels (this is crucial for a good sear). Season lightly with salt and pepper.",
+        "Heat olive oil and 1 tablespoon of butter in a large skillet over medium-high heat until the butter is melted and the oil is shimmering.",
+        "Add scallops to the hot skillet in a single layer, ensuring they are not overcrowded (cook in batches if necessary). Sear for 1.5-2 minutes per side without moving them, until a golden-brown crust forms and they are opaque. Do not overcook.",
+        "Remove scallops from the skillet and set aside on a plate.",
+        "Reduce heat to medium-low. Add the remaining 1 tablespoon of butter to the skillet. Once melted, add minced garlic and cook for about 30 seconds until fragrant.",
+        "If using, deglaze the pan by pouring in chicken broth or white wine, scraping up any browned bits from the bottom of the skillet. Let it simmer for 1 minute.",
+        "Stir in fresh lemon juice and capers. Cook for another minute.",
+        "Return the seared scallops to the skillet with the sauce. Add chopped fresh parsley. Toss gently to coat the scallops with the sauce and heat through.",
+        "Serve immediately. This is a sophisticated dish that's surprisingly quick."
+      ],
+      "notes": "Recipe 212 - Pan-Seared Scallops with Lemon Caper Sauce - Main Course"
+    },
+    {
+      "name": "Hearty Keto Chili (No Beans)",
+      "category": "Main Course",
+      "protein": "Beef",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A flavorful and satisfying beanless chili, perfect for a comforting family meal.",
+      "ingredients": [
+        "1.5 lbs ground beef (or a mix of beef and keto-friendly sausage)",
+        "1 tablespoon olive oil or avocado oil",
+        "1 medium onion, chopped (optional)",
+        "1 green bell pepper, chopped (optional)",
+        "2-3 cloves garlic, minced",
+        "1 (14.5 oz) can diced tomatoes, undrained (no sugar added)",
+        "2 tablespoons tomato paste (no sugar added)",
+        "1 cup beef broth",
+        "2-3 tablespoons chili powder (adjust to taste, check for fillers)",
+        "1 tablespoon ground cumin",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon dried oregano",
+        "Salt and freshly ground black pepper to taste",
+        "Optional toppings: Shredded cheddar cheese, sour cream, sliced avocado, chopped green onions, jalapeños"
+      ],
+      "instructions": [
+        "Heat oil in a large pot or Dutch oven over medium heat. Add ground beef (and onion/bell pepper if using). Cook, breaking up the meat, until browned. Drain any excess fat.",
+        "Stir in minced garlic, chili powder, cumin, smoked paprika, and oregano. Cook for 1-2 minutes more, until fragrant.",
+        "Add diced tomatoes (with their juice), tomato paste, and beef broth. Stir well to combine.",
+        "Season with salt and pepper.",
+        "Bring the chili to a simmer. Reduce heat to low, cover, and cook for at least 30 minutes (or up to 1-2 hours for flavors to meld more deeply), stirring occasionally.",
+        "Taste and adjust seasonings if needed (more chili powder, salt, etc.).",
+        "Ladle into bowls and serve hot with your favorite keto toppings. This is great for a weeknight or a crowd."
+      ],
+      "notes": "Recipe 213 - Hearty Keto Chili (No Beans) - Main Course"
+    },
+    {
+      "name": "Family-Style Swedish Meatballs with Cauliflower Rice",
+      "category": "Main Course",
+      "protein": "Beef/Pork",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "Flavorful keto meatballs in a creamy gravy, served over cauliflower rice for a satisfying family meal.",
+      "ingredients": [
+        "For the Meatballs:",
+        "1 lb ground beef (or a 50/50 mix of ground beef and ground pork)",
+        "1/4 cup almond flour or crushed pork rinds",
+        "1 small onion, very finely chopped or grated (optional)",
+        "1 large egg, beaten",
+        "1/4 teaspoon ground allspice",
+        "1/4 teaspoon ground nutmeg",
+        "Salt and freshly ground black pepper to taste",
+        "1-2 tablespoons butter or avocado oil for frying",
+        "For the Gravy:",
+        "2 tablespoons butter",
+        "1-2 teaspoons almond flour or 1/4 tsp xanthan gum (optional, for thickening)",
+        "2 cups beef broth",
+        "1/2 cup heavy cream",
+        "1 tablespoon soy sauce or coconut aminos",
+        "1 teaspoon Dijon mustard (sugar-free)",
+        "Salt and pepper to taste",
+        "For Serving: Steamed cauliflower rice, fresh parsley (chopped)"
+      ],
+      "instructions": [
+        "Make Meatballs: In a large bowl, gently combine ground meat(s), almond flour/pork rinds, finely chopped/grated onion (if using), beaten egg, allspice, nutmeg, salt, and pepper. Do not overmix.",
+        "Roll the mixture into small meatballs (about 1-1.5 inches in diameter).",
+        "Heat 1-2 tablespoons of butter/oil in a large skillet over medium-high heat. Brown the meatballs in batches on all sides. Remove cooked meatballs from the skillet and set aside (they don't need to be cooked through at this stage).",
+        "Make Gravy: In the same skillet (do not wipe clean), melt 2 tablespoons of butter over medium heat.",
+        "If using almond flour for thickening, whisk it into the melted butter and cook for 1 minute. If using xanthan gum, you'll add it later.",
+        "Gradually whisk in the beef broth, scraping up any browned bits from the bottom of the pan. Bring to a simmer.",
+        "Stir in heavy cream, soy sauce/coconut aminos, and Dijon mustard. Let the gravy simmer for 5-7 minutes, or until it begins to thicken slightly.",
+        "If using xanthan gum, sprinkle it very lightly over the simmering gravy while whisking constantly until desired thickness is reached.",
+        "Season the gravy with salt and pepper to taste.",
+        "Return the browned meatballs to the skillet with the gravy. Reduce heat to low, cover, and simmer gently for 10-15 minutes, or until the meatballs are cooked through and the gravy has thickened further.",
+        "Serve hot over steamed cauliflower rice, garnished with fresh chopped parsley. This is a comforting family meal."
+      ],
+      "notes": "Recipe 214 - Family-Style Swedish Meatballs with Cauliflower Rice - Main Course"
+    },
+    {
+      "name": "Chicken Cordon Bleu Bake",
+      "category": "Main Course",
+      "protein": "Chicken/Pork",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "All the classic flavors of Chicken Cordon Bleu in a simple, family-friendly casserole form.",
+      "ingredients": [
+        "2 cups cooked chicken, diced or shredded (rotisserie chicken works well)",
+        "1 cup diced deli ham (check for low sugar)",
+        "4 oz cream cheese, softened and cubed",
+        "1/2 cup heavy cream",
+        "1/4 cup chicken broth",
+        "1 teaspoon Dijon mustard (sugar-free)",
+        "1 cup shredded Swiss cheese (or Gruyère), divided",
+        "Salt and freshly ground black pepper to taste",
+        "Optional topping: 1/4 cup crushed pork rinds mixed with 1 tablespoon melted butter"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C). Grease a medium baking dish (approx. 8x8 or 9x7 inch).",
+        "Spread the diced or shredded cooked chicken evenly in the bottom of the prepared baking dish.",
+        "Scatter the diced ham over the chicken.",
+        "In a small saucepan over medium-low heat, combine cubed cream cheese, heavy cream, chicken broth, and Dijon mustard. Whisk frequently until the cream cheese is melted and the sauce is smooth.",
+        "Stir in 1/2 cup of the shredded Swiss cheese until melted. Season the sauce with salt and pepper to taste.",
+        "Pour the cheese sauce evenly over the chicken and ham in the baking dish.",
+        "Sprinkle the remaining 1/2 cup of shredded Swiss cheese over the top.",
+        "If using the optional topping, sprinkle the pork rind mixture over the cheese.",
+        "Bake for 20-25 minutes, or until the casserole is bubbly around the edges and the topping is golden brown (if using pork rinds).",
+        "Let cool for 5-10 minutes before serving. This is a rich and satisfying weeknight meal."
+      ],
+      "notes": "Recipe 215 - Chicken Cordon Bleu Bake - Main Course"
+    },
+    {
+      "name": "Blackened Fish with Avocado Salsa",
+      "category": "Main Course",
+      "protein": "Fish",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Spicy blackened white fish fillets topped with a refreshing and creamy avocado salsa.",
+      "ingredients": [
+        "For the Avocado Salsa:",
+        "1 ripe avocado, diced",
+        "1/4 cup finely diced red onion",
+        "1/4 cup chopped fresh cilantro",
+        "1 small jalapeño, minced (optional, seeds removed for less heat)",
+        "Juice of 1/2 lime",
+        "Salt to taste",
+        "For the Blackened Fish:",
+        "4 white fish fillets (e.g., tilapia, cod, mahi-mahi, about 4-6 oz each)",
+        "1-2 tablespoons blackened seasoning (ensure sugar-free, or make your own: paprika, cayenne, garlic powder, onion powder, thyme, oregano, salt, pepper)",
+        "1-2 tablespoons olive oil or avocado oil for cooking"
+      ],
+      "instructions": [
+        "Prepare Avocado Salsa: In a small bowl, gently combine diced avocado, diced red onion, chopped cilantro, minced jalapeño (if using), lime juice, and salt. Mix carefully to avoid mashing the avocado too much. Set aside (can be made shortly before serving).",
+        "Prepare Fish: Pat the fish fillets very dry with paper towels.",
+        "Generously coat all sides of each fish fillet with the blackened seasoning, pressing it on slightly to adhere.",
+        "Cook Fish: Heat olive oil or avocado oil in a large skillet (cast iron is ideal) over medium-high heat until the oil is hot and shimmering.",
+        "Carefully place the seasoned fish fillets in the hot skillet. Cook for 3-5 minutes per side, depending on the thickness of the fish, until the seasoning is well-blackened (but not burnt) and the fish is cooked through and flakes easily with a fork.",
+        "Serve the blackened fish fillets immediately, topped generously with the fresh avocado salsa. A quick and flavorful weeknight meal."
+      ],
+      "notes": "Recipe 216 - Blackened Fish with Avocado Salsa - Main Course"
+    },
+    {
+      "name": "Easy Pulled Pork (Slow Cooker)",
+      "category": "Main Course",
+      "protein": "Pork",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Tender and flavorful pulled pork made with minimal effort in a slow cooker, perfect for keto BBQ.",
+      "ingredients": [
+        "3-4 lb pork shoulder (butt roast)",
+        "Keto Dry Rub:",
+        "2 tablespoons smoked paprika",
+        "1 tablespoon erythritol or other keto granulated sweetener (optional)",
+        "1 tablespoon salt",
+        "1 teaspoon black pepper",
+        "1 teaspoon garlic powder",
+        "1 teaspoon onion powder",
+        "1/2 teaspoon cayenne pepper (optional)",
+        "Braising Liquid (Optional):",
+        "1/2 cup apple cider vinegar",
+        "1/4 cup water or chicken broth",
+        "For Serving: Sugar-free BBQ sauce, keto coleslaw, keto buns or lettuce wraps"
+      ],
+      "instructions": [
+        "Prepare Pork: Pat the pork shoulder dry with paper towels.",
+        "Make Dry Rub: In a small bowl, combine all dry rub ingredients (smoked paprika, sweetener, salt, pepper, garlic powder, onion powder, cayenne).",
+        "Rub the spice mixture thoroughly all over the pork shoulder.",
+        "Slow Cook: Place the seasoned pork shoulder in the slow cooker. If using braising liquid, pour apple cider vinegar and water/broth around the roast (not directly over the rub if possible).",
+        "Cover and cook on LOW for 6-8 hours or on HIGH for 3-4 hours, until the pork is very tender and easily shreds with a fork.",
+        "Shred Pork: Remove the pork from the slow cooker and place it on a large cutting board or in a large bowl. Let it rest for 10-15 minutes.",
+        "Using two forks, shred the pork, discarding any large pieces of fat or bone (if bone-in).",
+        "Serve: You can return the shredded pork to some of the cooking juices in the slow cooker to keep it moist, or serve it as is. Toss with your favorite sugar-free BBQ sauce before serving.",
+        "Serve in lettuce wraps, on keto-friendly buns, with keto coleslaw, or as part of a larger meal. Great for feeding a family or for meal prep."
+      ],
+      "notes": "Recipe 217 - Easy Pulled Pork (Slow Cooker) - Main Course"
+    },
+    {
+      "name": "Philly Cheesesteak Stuffed Peppers",
+      "category": "Main Course",
+      "protein": "Beef/Cheese",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "Bell peppers stuffed with all the classic Philly cheesesteak ingredients.",
+      "ingredients": [
+        "3-4 large bell peppers (any color), halved lengthwise and seeded",
+        "1 lb thinly sliced beef (e.g., ribeye, sirloin, or pre-sliced cheesesteak meat)",
+        "1 tablespoon olive oil or avocado oil",
+        "1 medium onion, thinly sliced",
+        "Optional: 1/2 green bell pepper, thinly sliced (if not using all peppers for stuffing)",
+        "Optional: 4 oz sliced mushrooms",
+        "Salt and freshly ground black pepper to taste",
+        "1/2 teaspoon garlic powder",
+        "4-6 slices provolone cheese (or Cheez Whiz if you have a keto-friendly version/preference)"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C).",
+        "If desired, par-boil or microwave the bell pepper halves for 3-5 minutes until slightly tender. Drain.",
+        "Heat oil in a large skillet over medium-high heat. Add thinly sliced beef and cook, stirring occasionally, until browned. Season with salt, pepper, and garlic powder. Remove beef from skillet and set aside.",
+        "In the same skillet, add sliced onion (and green pepper/mushrooms, if using). Cook, stirring, until softened and lightly caramelized (about 5-8 minutes).",
+        "Return the cooked beef to the skillet with the vegetables. Stir to combine and heat through.",
+        "Spoon the beef and vegetable mixture evenly into the bell pepper halves.",
+        "Top each stuffed pepper half with a slice (or torn pieces) of provolone cheese.",
+        "Place the stuffed peppers in a baking dish. You can add about 1/4 inch of water or broth to the bottom of the dish to help steam the peppers.",
+        "Bake for 15-25 minutes (less time if peppers were pre-cooked), or until the peppers are tender and the cheese is melted and bubbly.",
+        "Let cool slightly before serving. A satisfying family meal."
+      ],
+      "notes": "Recipe 218 - Philly Cheesesteak Stuffed Peppers - Main Course"
+    },
+    {
+      "name": "Coconut Curry Chicken Soup",
+      "category": "Main Course",
+      "protein": "Chicken",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A rich and aromatic soup with chicken and vegetables in a creamy coconut curry broth.",
+      "ingredients": [
+        "1 tablespoon coconut oil or avocado oil",
+        "1 lb boneless, skinless chicken thighs or breasts, cut into bite-sized pieces",
+        "1 small onion, chopped (optional)",
+        "2 cloves garlic, minced",
+        "1 tablespoon grated fresh ginger",
+        "1-2 tablespoons red curry paste (check for sugar, adjust to spice preference)",
+        "4 cups chicken broth",
+        "1 (13.5 oz) can full-fat coconut milk",
+        "1 cup chopped keto-friendly vegetables (e.g., broccoli florets, sliced bell peppers, mushrooms, green beans)",
+        "Juice of 1/2 lime",
+        "Fresh cilantro or basil, chopped (for garnish)",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Heat oil in a large pot or Dutch oven over medium-high heat. Add chicken pieces and cook until lightly browned on all sides. Remove chicken and set aside.",
+        "If using onion, add it to the pot and cook until softened (about 3-5 minutes). Add minced garlic and grated ginger, cook for 1 minute more until fragrant.",
+        "Stir in the red curry paste and cook for 1-2 minutes, stirring constantly.",
+        "Pour in chicken broth and coconut milk. Whisk to combine and bring to a gentle simmer.",
+        "Add the chopped keto-friendly vegetables and the cooked chicken back to the pot.",
+        "Simmer for 10-15 minutes, or until the vegetables are tender and the chicken is cooked through.",
+        "Stir in the lime juice. Season with salt to taste.",
+        "Ladle into bowls and serve hot, garnished with fresh cilantro or basil. A flavorful and comforting weeknight option."
+      ],
+      "notes": "Recipe 219 - Coconut Curry Chicken Soup - Main Course"
+    },
+    {
+      "name": "Easy Chicken Piccata",
+      "category": "Main Course",
+      "protein": "Chicken",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Tender chicken cutlets in a tangy lemon-butter and caper sauce, simplified for a quick meal.",
+      "ingredients": [
+        "1.5 lbs boneless, skinless chicken breasts, pounded thin or cut into thin cutlets",
+        "Salt and freshly ground black pepper to taste",
+        "Optional: 2-3 tablespoons almond flour for dredging",
+        "2 tablespoons unsalted butter, divided",
+        "1 tablespoon olive oil",
+        "2-3 cloves garlic, minced",
+        "1/2 cup chicken broth",
+        "1/4 cup fresh lemon juice",
+        "2 tablespoons capers, drained",
+        "2 tablespoons chopped fresh parsley"
+      ],
+      "instructions": [
+        "Season chicken cutlets on both sides with salt and pepper. If using, lightly dredge them in almond flour, shaking off any excess.",
+        "Heat olive oil and 1 tablespoon of butter in a large skillet over medium-high heat.",
+        "Add chicken cutlets to the hot skillet (do not overcrowd; cook in batches if needed). Cook for 2-4 minutes per side, until golden brown and cooked through. Remove chicken from skillet and set aside on a plate.",
+        "Reduce heat to medium. Add the remaining 1 tablespoon of butter to the skillet. Once melted, add minced garlic and cook for about 30 seconds until fragrant.",
+        "Pour in chicken broth and lemon juice, scraping up any browned bits from the bottom of the pan. Bring the sauce to a simmer and let it reduce slightly for 2-3 minutes.",
+        "Stir in the drained capers and most of the chopped fresh parsley (reserve some for garnish).",
+        "Return the cooked chicken cutlets to the skillet with the sauce. Spoon some of the sauce over the chicken. Let it simmer for another 1-2 minutes to heat through.",
+        "Serve immediately, garnished with the remaining fresh parsley. Great with zoodles or steamed asparagus."
+      ],
+      "notes": "Recipe 220 - Easy Chicken Piccata - Main Course"
+    },
+    {
+      "name": "Keto Stuffed Cabbage Rolls",
+      "category": "Main Course",
+      "protein": "Beef/Pork",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "Cabbage leaves stuffed with a savory meat and cauliflower rice mixture, baked in a flavorful tomato sauce.",
+      "ingredients": [
+        "1 large head of green cabbage (about 12-16 leaves needed)",
+        "Filling:",
+        "1 lb ground beef (or a mix of ground beef and pork)",
+        "1/2 cup riced cauliflower (raw)",
+        "1 small onion, finely chopped (optional)",
+        "1 large egg, beaten",
+        "1 teaspoon garlic powder",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "Sauce:",
+        "1 (14.5 oz) can diced tomatoes or crushed tomatoes (no sugar added)",
+        "1/2 cup beef broth or water",
+        "1 tablespoon tomato paste (no sugar added)",
+        "1 teaspoon dried oregano or Italian seasoning",
+        "Keto-friendly sweetener to taste (optional, to balance tomato acidity)"
+      ],
+      "instructions": [
+        "Prepare Cabbage Leaves: Bring a large pot of water to a boil. Core the cabbage. Place the whole cabbage, core-side down, into the boiling water. Cover and cook for 3-5 minutes. Gently peel off the softened outer leaves. Repeat until you have 12-16 pliable leaves. Shave down the thick rib on each leaf to make rolling easier.",
+        "Make Filling: In a large bowl, combine ground meat, riced cauliflower, chopped onion (if using), beaten egg, garlic powder, salt, and pepper. Mix gently until just combined (do not overmix).",
+        "Assemble Rolls: Lay a cabbage leaf flat. Place about 1/4 to 1/3 cup of the meat mixture near the stem end of the leaf. Fold in the sides of the cabbage leaf over the filling, then roll up tightly from the stem end.",
+        "Prepare Baking Dish: Preheat oven to 375°F (190°C). In a small bowl, whisk together diced/crushed tomatoes, beef broth/water, tomato paste, and oregano/Italian seasoning. Add sweetener if desired. Pour about half of this sauce into the bottom of a 9x13 inch baking dish (or a Dutch oven).",
+        "Arrange the cabbage rolls seam-down in a single layer (or two if needed) in the baking dish over the sauce.",
+        "Pour the remaining tomato sauce evenly over the cabbage rolls.",
+        "Bake: Cover the baking dish tightly with foil. Bake for 50-60 minutes, or until the meat filling is cooked through and the cabbage is very tender.",
+        "Let rest for 10 minutes before serving. Serve with the sauce from the dish. A classic comfort food made keto."
+      ],
+      "notes": "Recipe 221 - Keto Stuffed Cabbage Rolls - Main Course"
+    },
+    {
+      "name": "Addictive Crack Chicken",
+      "category": "Main Course",
+      "protein": "Chicken/Pork",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Creamy, cheesy, bacon-ranch chicken that's incredibly popular and easy to make in a slow cooker or Instant Pot.",
+      "ingredients": [
+        "2 lbs boneless, skinless chicken breasts or thighs",
+        "8 oz cream cheese, full-fat, cubed",
+        "1 oz packet dry ranch seasoning mix (check for low sugar/no maltodextrin, or use homemade: 2 tbsp dried parsley, 1 tsp dried dill, 1 tsp garlic powder, 1 tsp onion powder, 1/2 tsp salt, 1/4 tsp pepper)",
+        "1/2 cup cooked bacon, crumbled (about 6-8 slices)",
+        "Optional: 1/2 cup shredded cheddar cheese (stir in at the end or sprinkle on top)"
+      ],
+      "instructions": [
+        "Slow Cooker Method:",
+        "Place chicken in the bottom of the slow cooker.",
+        "Top with cubed cream cheese and sprinkle with ranch seasoning mix.",
+        "Scatter half of the crumbled bacon over the top.",
+        "Cover and cook on LOW for 4-6 hours or on HIGH for 2-3 hours, until chicken is tender and easily shreds.",
+        "Instant Pot Method:",
+        "Place chicken in the Instant Pot. Add about 1/4 cup of water or chicken broth (for pressure building).",
+        "Top with cubed cream cheese and sprinkle with ranch seasoning mix. Scatter half of the crumbled bacon.",
+        "Secure the lid, set the valve to sealing. Cook on HIGH pressure for 12-15 minutes for breasts, 10-12 for thighs. Allow a 5-10 minute natural pressure release, then quick release any remaining pressure.",
+        "Shred and Serve:",
+        "Remove chicken from the slow cooker/Instant Pot and shred it using two forks.",
+        "Return the shredded chicken to the pot with the creamy sauce. Stir well to combine everything. The cream cheese should melt into a sauce.",
+        "Stir in the remaining crumbled bacon and optional shredded cheddar cheese until cheese is melted.",
+        "Serve hot in lettuce wraps, on keto buns, with celery sticks, over cauliflower rice, or as a dip. A guaranteed family pleaser."
+      ],
+      "notes": "Recipe 222 - Addictive Crack Chicken - Main Course"
+    },
+    {
+      "name": "Crispy Baked Garlic Parmesan Wings",
+      "category": "Main Course",
+      "protein": "Chicken",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Extra crispy baked chicken wings tossed in a savory garlic Parmesan sauce, perfect for game day or a weeknight treat.",
+      "ingredients": [
+        "2 lbs chicken wings (flats and drumettes separated)",
+        "1 tablespoon baking powder (NOT baking soda - this makes them crispy)",
+        "1 teaspoon salt",
+        "1/2 teaspoon black pepper",
+        "For the Garlic Parmesan Sauce:",
+        "1/4 cup unsalted butter, melted",
+        "2-3 cloves garlic, minced",
+        "1/4 cup grated Parmesan cheese",
+        "1 tablespoon chopped fresh parsley",
+        "Optional: Pinch of red pepper flakes"
+      ],
+      "instructions": [
+        "Prepare Wings: Preheat oven to 400°F (200°C). Line a large baking sheet with parchment paper and place an oven-safe wire rack on top.",
+        "Pat the chicken wings thoroughly dry with paper towels. This is key for crispiness.",
+        "In a large bowl, toss the dry wings with baking powder, salt, and pepper until evenly coated.",
+        "Arrange the wings in a single layer on the prepared wire rack, ensuring they are not touching.",
+        "Bake: Bake for 40-50 minutes, flipping the wings halfway through, until they are golden brown, crispy, and cooked through (internal temperature of 165°F or 74°C).",
+        "Make Sauce: While the wings are baking (or in the last 5-10 minutes), prepare the sauce. In a small bowl, whisk together melted butter, minced garlic, grated Parmesan cheese, and chopped fresh parsley. Add red pepper flakes if desired.",
+        "Toss Wings: Once the wings are cooked and crispy, transfer them to a large clean bowl. Pour the garlic Parmesan sauce over the hot wings and toss gently until all wings are evenly coated.",
+        "Serve immediately. These are always a family hit!"
+      ],
+      "notes": "Recipe 223 - Crispy Baked Garlic Parmesan Wings - Main Course"
+    },
+    {
+      "name": "Meatza (All Meat Pizza Crust)",
+      "category": "Main Course",
+      "protein": "Beef/Pork",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A pizza where the crust is made entirely of seasoned ground meat, topped like a traditional pizza.",
+      "ingredients": [
+        "For the Meat Crust:",
+        "1.5 lbs ground beef (or a mix of ground beef and Italian sausage, casings removed)",
+        "1 large egg, beaten",
+        "1/4 cup grated Parmesan cheese",
+        "1 teaspoon dried Italian seasoning",
+        "1/2 teaspoon garlic powder",
+        "Salt and freshly ground black pepper to taste",
+        "For the Toppings:",
+        "1/2 cup keto-friendly pizza sauce or marinara (no sugar added)",
+        "1.5 - 2 cups shredded mozzarella cheese",
+        "Your favorite keto pizza toppings (e.g., pepperoni, cooked mushrooms, olives, sliced bell peppers)"
+      ],
+      "instructions": [
+        "Prepare Meat Crust: Preheat oven to 400°F (200°C). Line a large pizza pan or baking sheet with parchment paper.",
+        "In a large bowl, gently combine the ground meat, beaten egg, Parmesan cheese, Italian seasoning, garlic powder, salt, and pepper. Be careful not to overmix.",
+        "Transfer the meat mixture to the prepared parchment paper. Press it out evenly into a round or rectangular pizza crust shape, about 1/4 to 1/2-inch thick.",
+        "Bake the meat crust for 15-20 minutes, or until it is mostly cooked through and browned. Carefully drain off any excess fat that has rendered from the crust.",
+        "Add Toppings: Remove the meat crust from the oven. Spread the keto-friendly pizza sauce evenly over the surface.",
+        "Sprinkle generously with shredded mozzarella cheese, then arrange your desired keto toppings over the cheese.",
+        "Bake Again: Return the 'Meatza' to the oven and bake for another 10-15 minutes, or until the cheese is melted, bubbly, and lightly golden, and the toppings are heated through.",
+        "Let cool for a few minutes before slicing and serving. A very hearty and satisfying family meal."
+      ],
+      "notes": "Recipe 224 - Meatza (All Meat Pizza Crust) - Main Course"
+    },
+    {
+      "name": "Pork Rind Nachos Supreme",
+      "category": "Appetizers/Snacks",
+      "protein": "Beef/Pork",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A crunchy and savory keto take on nachos using pork rinds as the base.",
+      "ingredients": [
+        "1 large bag (3-4 oz) plain pork rinds",
+        "1/2 lb ground beef or turkey, cooked and seasoned with keto-friendly taco seasoning",
+        "1 cup shredded cheddar or Mexican blend cheese",
+        "Optional Toppings:",
+        "1/4 cup diced tomatoes (use sparingly)",
+        "2 tablespoons sliced jalapeños (pickled or fresh)",
+        "1/4 cup sliced black olives",
+        "Sour cream",
+        "Guacamole or diced avocado",
+        "Keto-friendly salsa",
+        "Chopped cilantro or green onions"
+      ],
+      "instructions": [
+        "Preheat oven to 350°F (175°C) or prepare to use the broiler (watch very carefully under broiler).",
+        "Spread the pork rinds in a single layer on a large oven-safe plate or baking sheet.",
+        "Sprinkle the cooked and seasoned ground meat evenly over the pork rinds.",
+        "Top generously with shredded cheese. Add other bake-friendly toppings like jalapeños or olives now if desired.",
+        "Bake for 5-8 minutes, or until the cheese is completely melted and bubbly. If using broiler, it will only take 1-2 minutes – watch constantly to prevent burning.",
+        "Remove from oven and let cool for a minute.",
+        "Top with desired fresh toppings like diced tomatoes, sour cream, guacamole/avocado, salsa, and cilantro/green onions.",
+        "Serve immediately. A fun and customizable snack or light meal for the family."
+      ],
+      "notes": "Recipe 225 - Pork Rind Nachos Supreme - Appetizers/Snacks"
+    },
+    {
+      "name": "Cheese Crisps (Chaffle Method)",
+      "category": "Appetizers/Snacks",
+      "protein": "Cheese",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Simple, crispy cheese snacks made easily in a mini waffle maker.",
+      "ingredients": [
+        "1 cup shredded cheddar cheese (or Parmesan, or a mix)",
+        "Optional seasonings: 1/4 teaspoon garlic powder, 1/4 teaspoon Italian herbs"
+      ],
+      "instructions": [
+        "Preheat your mini waffle maker (chaffle maker).",
+        "Place about 1/4 cup of shredded cheese directly onto the hot waffle iron. If using seasonings, sprinkle them over the cheese.",
+        "Close the lid and cook for 2-4 minutes, or until the cheese is melted, golden brown, and crispy.",
+        "Carefully remove the cheese crisp from the waffle maker using a fork or small spatula.",
+        "Let it cool on a wire rack for a minute or two to fully crisp up.",
+        "Repeat with the remaining cheese. These are great for dipping or as a crunchy snack."
+      ],
+      "notes": "Recipe 226 - Cheese Crisps (Chaffle Method) - Appetizers/Snacks"
+    },
+    {
+      "name": "Nut and Seed Trail Mix",
+      "category": "Appetizers/Snacks",
+      "protein": "N/A",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A customizable, crunchy, and energy-boosting keto trail mix.",
+      "ingredients": [
+        "1/2 cup raw almonds, whole or slivered",
+        "1/2 cup raw pecans or walnuts, halves or pieces",
+        "1/4 cup pumpkin seeds (pepitas)",
+        "1/4 cup sunflower seeds",
+        "1/4 cup unsweetened shredded coconut or coconut flakes",
+        "2-3 tablespoons sugar-free chocolate chips (e.g., Lily's) (optional)",
+        "Optional: 1 tablespoon hemp hearts or chia seeds"
+      ],
+      "instructions": [
+        "In a medium bowl, combine almonds, pecans/walnuts, pumpkin seeds, sunflower seeds, and shredded coconut.",
+        "If using, add sugar-free chocolate chips and hemp hearts/chia seeds.",
+        "Toss gently to mix all ingredients evenly.",
+        "Store in an airtight container at room temperature or in the refrigerator for longer freshness.",
+        "Portion control is important as nuts and seeds are calorie-dense. Makes a great portable snack."
+      ],
+      "notes": "Recipe 227 - Nut and Seed Trail Mix - Appetizers/Snacks"
+    },
+    {
+      "name": "Pan-Fried Chorizo Slices",
+      "category": "Appetizers/Snacks",
+      "protein": "Pork",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Flavorful and slightly spicy pan-fried keto-friendly chorizo, perfect for a quick savory snack or appetizer.",
+      "ingredients": [
+        "4-6 oz cured Spanish chorizo (ensure it's keto-friendly with no added sugars), sliced into 1/4-inch thick rounds"
+      ],
+      "instructions": [
+        "Heat a dry skillet (non-stick or cast iron) over medium heat. Chorizo typically releases its own fat, so no extra oil is usually needed. If your chorizo is very lean, you can add a tiny bit of olive oil.",
+        "Place the chorizo slices in the hot skillet in a single layer.",
+        "Pan-fry for 2-3 minutes per side, until the edges are slightly crisped and the chorizo is heated through and has released some of its flavorful oils.",
+        "Remove the chorizo slices from the skillet and drain them briefly on a paper towel-lined plate to absorb any excess oil.",
+        "Serve warm, as is, or with toothpicks for easy grabbing. Can be paired with cheese or olives."
+      ],
+      "notes": "Recipe 228 - Pan-Fried Chorizo Slices - Appetizers/Snacks"
+    },
+    {
+      "name": "Cream Cheese and Everything Seasoning Pickle Spears",
+      "category": "Appetizers/Snacks",
+      "protein": "Cheese",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A crunchy, creamy, and savory snack combining dill pickles with seasoned cream cheese.",
+      "ingredients": [
+        "4-6 large dill pickle spears (ensure no added sugar)",
+        "4 oz cream cheese, softened",
+        "1-2 tablespoons Everything Bagel Seasoning"
+      ],
+      "instructions": [
+        "Pat the dill pickle spears thoroughly dry with paper towels. This helps the cream cheese adhere better.",
+        "Spread a layer of softened cream cheese evenly onto one or two sides of each pickle spear.",
+        "Sprinkle generously with Everything Bagel Seasoning, pressing it lightly into the cream cheese if needed.",
+        "Serve immediately, or chill for a few minutes if preferred. A very quick and satisfying snack."
+      ],
+      "notes": "Recipe 229 - Cream Cheese and Everything Seasoning Pickle Spears - Appetizers/Snacks"
+    },
+    {
+      "name": "Mini Zucchini Pizza Rounds",
+      "category": "Appetizers/Snacks",
+      "protein": "Cheese/Pork (optional)",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Zucchini rounds topped with keto pizza sauce, cheese, and mini pepperoni or other keto toppings.",
+      "ingredients": [
+        "2 medium zucchinis, sliced into 1/3 to 1/2-inch thick rounds",
+        "1/4 cup keto-friendly pizza sauce or marinara (no sugar added)",
+        "1/2 cup shredded mozzarella cheese",
+        "Optional: Mini pepperoni slices, cooked crumbled sausage, chopped olives, or other keto pizza toppings",
+        "Optional: Pinch of dried oregano or Italian seasoning"
+      ],
+      "instructions": [
+        "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+        "Arrange the zucchini rounds in a single layer on the prepared baking sheet.",
+        "You can lightly salt the zucchini and let it sit for 10 minutes, then pat dry to remove some moisture, for a less watery result (optional).",
+        "Spoon a small amount of pizza sauce onto each zucchini round.",
+        "Sprinkle with shredded mozzarella cheese.",
+        "Add mini pepperoni or your other desired keto toppings.",
+        "Sprinkle with oregano or Italian seasoning if desired.",
+        "Bake for 8-12 minutes, or until the cheese is melted and bubbly, and the zucchini is tender-crisp.",
+        "For crispier toppings, you can broil for the last 1-2 minutes, watching very carefully to prevent burning.",
+        "Let cool slightly before serving."
+      ],
+      "notes": "Recipe 230 - Mini Zucchini Pizza Rounds - Appetizers/Snacks"
+    },
+    {
+      "name": "Parmesan Crusted Green Bean Fries (Baked)",
+      "category": "Appetizers/Snacks",
+      "protein": "Cheese",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "Fresh green beans coated in Parmesan and seasonings, baked until crispy, a great fry alternative.",
+      "ingredients": [
+        "1 lb fresh green beans, trimmed",
+        "1 large egg, beaten",
+        "1/2 cup grated Parmesan cheese",
+        "1/4 cup almond flour (optional, for better coating and crisp)",
+        "1/2 teaspoon garlic powder",
+        "1/2 teaspoon onion powder",
+        "Salt and freshly ground black pepper to taste",
+        "Optional: Olive oil spray"
+      ],
+      "instructions": [
+        "Preheat oven to 425°F (220°C). Line a baking sheet with parchment paper and ideally place an oven-safe wire rack on top for better air circulation and crispiness.",
+        "Wash and trim the green beans. Pat them dry thoroughly.",
+        "In a shallow dish or bowl, place the beaten egg.",
+        "In another shallow dish, combine grated Parmesan cheese, almond flour (if using), garlic powder, onion powder, salt, and pepper. Mix well.",
+        "Dip each green bean first into the beaten egg, allowing any excess to drip off.",
+        "Then, dredge the egg-coated green bean in the Parmesan mixture, pressing gently to ensure it's well coated on all sides.",
+        "Arrange the coated green beans in a single layer on the prepared wire rack or parchment-lined baking sheet. Do not overcrowd.",
+        "Lightly spray with olive oil spray if desired for extra crispiness.",
+        "Bake for 12-18 minutes, flipping once about halfway through, until golden brown, crispy, and the green beans are tender-crisp.",
+        "Serve immediately with your favorite keto dipping sauce (e.g., ranch, garlic aioli)."
+      ],
+      "notes": "Recipe 231 - Parmesan Crusted Green Bean Fries (Baked) - Appetizers/Snacks"
+    },
+    {
+      "name": "Savory Roasted Spiced Pecans",
+      "category": "Appetizers/Snacks",
+      "protein": "N/A",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Pecans toasted with butter and savory spices for a quick, flavorful, and satisfying snack.",
+      "ingredients": [
+        "2 cups pecan halves",
+        "2 tablespoons unsalted butter, melted",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon ground cumin",
+        "1/2 teaspoon garlic powder",
+        "1/4 teaspoon cayenne pepper (or to taste, optional)",
+        "1/2 teaspoon salt (or to taste)"
+      ],
+      "instructions": [
+        "Preheat oven to 325°F (160°C). Line a baking sheet with parchment paper.",
+        "In a medium bowl, add the pecan halves.",
+        "Pour the melted butter over the pecans and toss well to coat evenly.",
+        "In a small bowl, combine smoked paprika, cumin, garlic powder, cayenne pepper (if using), and salt.",
+        "Sprinkle the spice mixture over the buttered pecans and toss again thoroughly until the nuts are well coated.",
+        "Spread the seasoned pecans in a single layer on the prepared baking sheet.",
+        "Roast for 8-12 minutes, stirring once or twice halfway through, until fragrant and lightly toasted. Be careful not to burn them, as nuts can toast quickly.",
+        "Remove from oven and let cool completely on the baking sheet. They will become crunchier as they cool.",
+        "Store in an airtight container at room temperature."
+      ],
+      "notes": "Recipe 232 - Savory Roasted Spiced Pecans - Appetizers/Snacks"
+    },
+    {
+      "name": "Smoked Salmon Chaffle with Cream Cheese",
+      "category": "Breakfast",
+      "protein": "Eggs/Cheese/Salmon",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A savory chaffle topped with cream cheese, smoked salmon, and optional capers or dill.",
+      "ingredients": [
+        "For the Chaffle (makes 1-2, depending on size):",
+        "1 large egg",
+        "1/2 cup shredded mozzarella cheese (mild, good for structure)",
+        "Optional: 1 tablespoon almond flour for firmer texture",
+        "For Topping:",
+        "1-2 tablespoons cream cheese, softened",
+        "1-2 oz smoked salmon (lox)",
+        "Optional garnishes: Capers, fresh dill, thinly sliced red onion, lemon wedge"
+      ],
+      "instructions": [
+        "Preheat your mini waffle maker (chaffle maker).",
+        "Prepare Chaffle Batter: In a small bowl, whisk the egg. Stir in the shredded mozzarella cheese (and almond flour, if using) until well combined.",
+        "Cook Chaffle: Grease the waffle maker if necessary. Pour half (for two smaller chaffles) or all (for one larger chaffle) of the batter into the preheated waffle maker.",
+        "Cook for 3-5 minutes, or until golden brown, crispy, and cooked through.",
+        "Carefully remove the chaffle(s) and let cool slightly on a wire rack.",
+        "Assemble: Spread a layer of softened cream cheese onto the warm or cooled chaffle(s).",
+        "Top with slices or pieces of smoked salmon.",
+        "Garnish with capers, fresh dill, or red onion if desired. Serve with a lemon wedge on the side.",
+        "A quick and elegant breakfast or light meal."
+      ],
+      "notes": "Recipe 233 - Smoked Salmon Chaffle with Cream Cheese - Breakfast"
+    },
+    {
+      "name": "Keto Yogurt Bowl with Berries and Nuts",
+      "category": "Breakfast",
+      "protein": "Cheese (from yogurt)",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Plain full-fat Greek yogurt or keto-friendly yogurt topped with low-carb berries and crunchy nuts.",
+      "ingredients": [
+        "1/2 cup plain, unsweetened full-fat Greek yogurt (check carb count) or a keto-friendly yogurt alternative (e.g., coconut yogurt with no added sugar)",
+        "1/4 cup mixed keto-friendly berries (e.g., raspberries, blueberries, strawberries - use in moderation)",
+        "1-2 tablespoons chopped nuts (e.g., almonds, pecans, walnuts) or seeds (e.g., chia, hemp, flax)",
+        "Optional: Keto-friendly sweetener to taste (e.g., liquid stevia, powdered erythritol)",
+        "Optional: Pinch of cinnamon or a few drops of vanilla extract"
+      ],
+      "instructions": [
+        "Spoon the Greek yogurt or keto yogurt alternative into a serving bowl.",
+        "Top with the mixed berries and chopped nuts/seeds.",
+        "If desired, drizzle with sweetener, or sprinkle with cinnamon or vanilla extract.",
+        "Stir gently if preferred, or enjoy layered. A very simple and quick breakfast or snack."
+      ],
+      "notes": "Recipe 234 - Keto Yogurt Bowl with Berries and Nuts - Breakfast"
+    },
+    {
+      "name": "Cauliflower Crust Breakfast Pizza",
+      "category": "Breakfast",
+      "protein": "Eggs/Cheese/Pork (optional)",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "A fun and savory breakfast pizza using a keto-friendly cauliflower crust, topped with eggs and breakfast meats.",
+      "ingredients": [
+        "1 pre-baked keto cauliflower pizza crust (homemade from Recipe 040 or store-bought)",
+        "Optional Base: 1-2 tablespoons olive oil or a thin layer of sugar-free Alfredo sauce or pesto",
+        "Toppings:",
+        "1/2 cup shredded mozzarella or cheddar cheese",
+        "2-4 large eggs",
+        "1/4 cup cooked and crumbled bacon or breakfast sausage",
+        "Optional: Sliced mushrooms, chopped bell peppers, or spinach",
+        "Salt and freshly ground black pepper to taste"
+      ],
+      "instructions": [
+        "Preheat oven to 400°F (200°C), or according to your cauliflower crust instructions if re-heating.",
+        "Place the pre-baked cauliflower crust on a pizza pan or baking sheet.",
+        "If using a base sauce, spread olive oil, Alfredo, or pesto lightly over the crust.",
+        "Sprinkle the shredded mozzarella/cheddar cheese evenly over the crust/sauce.",
+        "Scatter the cooked bacon or sausage over the cheese. Add any optional chopped vegetables.",
+        "Carefully crack the eggs directly onto the pizza, spacing them out. You can make slight wells in the toppings to help hold the eggs.",
+        "Season the eggs with salt and pepper.",
+        "Bake for 10-15 minutes, or until the cheese is melted and bubbly, and the egg whites are set but the yolks are still slightly runny (or cooked to your preference).",
+        "Let cool for a few minutes before slicing and serving. A great family-friendly weekend breakfast."
+      ],
+      "notes": "Recipe 235 - Cauliflower Crust Breakfast Pizza - Breakfast"
+    },
+    {
+      "name": "Roasted Cauliflower and Bacon Soup",
+      "category": "Soups and Salads",
+      "protein": "Pork/Cheese (optional)",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "A creamy and flavorful soup made with roasted cauliflower and crispy bacon for a smoky depth.",
+      "ingredients": [
+        "1 large head of cauliflower, cut into florets",
+        "2 tablespoons olive oil or avocado oil",
+        "Salt and freshly ground black pepper to taste",
+        "4-6 slices bacon, chopped",
+        "1 small onion, chopped (optional)",
+        "2 cloves garlic, minced",
+        "4 cups chicken broth or vegetable broth",
+        "1/2 cup heavy cream",
+        "Optional garnish: Shredded cheddar cheese, chopped chives, extra crumbled bacon"
+      ],
+      "instructions": [
+        "Roast Cauliflower: Preheat oven to 400°F (200°C). On a large baking sheet, toss cauliflower florets with olive oil/avocado oil, salt, and pepper. Spread in a single layer and roast for 20-25 minutes, or until tender and lightly caramelized, flipping once.",
+        "Cook Bacon: While cauliflower is roasting, cook chopped bacon in a large pot or Dutch oven over medium heat until crispy. Remove bacon with a slotted spoon and set aside on a paper towel-lined plate, reserving about 1 tablespoon of bacon grease in the pot.",
+        "Sauté Aromatics: If using onion, add it to the pot with the bacon grease and cook until softened (about 3-5 minutes). Add minced garlic and cook for 1 minute more until fragrant.",
+        "Make Soup: Add the roasted cauliflower and chicken/vegetable broth to the pot. Bring to a simmer.",
+        "Cook for 10-15 minutes to allow flavors to meld.",
+        "Blend Soup: Use an immersion blender to blend the soup until smooth and creamy. Alternatively, carefully transfer the soup in batches to a regular blender, blend until smooth, and then return to the pot.",
+        "Finish: Stir in the heavy cream and about half of the crumbled crispy bacon. Heat through gently, but do not boil. Season with additional salt and pepper to taste.",
+        "Serve hot, garnished with the remaining crumbled bacon, shredded cheddar cheese, and chopped chives if desired."
+      ],
+      "notes": "Recipe 236 - Roasted Cauliflower and Bacon Soup - Soups and Salads"
+    },
+    {
+      "name": "Fresh Asparagus Salad with Lemon-Herb Vinaigrette",
+      "category": "Soups and Salads",
+      "protein": "N/A",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A bright and fresh salad featuring blanched or raw asparagus with a simple lemon and herb dressing.",
+      "ingredients": [
+        "1 lb fresh asparagus, tough ends trimmed",
+        "For the Lemon-Herb Vinaigrette:",
+        "3 tablespoons extra virgin olive oil",
+        "1.5 tablespoons fresh lemon juice",
+        "1 teaspoon Dijon mustard (sugar-free)",
+        "1 tablespoon chopped fresh herbs (e.g., parsley, dill, or chives)",
+        "1 small clove garlic, minced (optional)",
+        "Salt and freshly ground black pepper to taste",
+        "Optional additions: Shaved Parmesan cheese, toasted slivered almonds"
+      ],
+      "instructions": [
+        "Prepare Asparagus: You can either blanch the asparagus or use it raw for a crunchier salad.",
+        "To blanch: Bring a pot of water to a boil. Add asparagus and cook for 1-3 minutes, until tender-crisp and bright green. Immediately transfer to an ice bath to stop the cooking process. Drain well and pat dry. Cut into 1-2 inch pieces.",
+        "For raw: Thinly slice the asparagus diagonally or use a vegetable peeler to create ribbons.",
+        "Make Vinaigrette: In a small bowl or jar, whisk together olive oil, lemon juice, Dijon mustard, chopped fresh herbs, minced garlic (if using), salt, and pepper.",
+        "Assemble Salad: In a medium salad bowl, combine the prepared asparagus.",
+        "Pour the vinaigrette over the asparagus and toss gently to coat.",
+        "If desired, add shaved Parmesan cheese or toasted slivered almonds.",
+        "Serve immediately or chill for a short period. This is a refreshing side salad."
+      ],
+      "notes": "Recipe 237 - Fresh Asparagus Salad with Lemon-Herb Vinaigrette - Soups and Salads"
+    },
+    {
+      "name": "Chilled Creamy Avocado Soup",
+      "category": "Soups and Salads",
+      "protein": "N/A",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A smooth, refreshing, and no-cook keto soup perfect for warm days or as a light starter.",
+      "ingredients": [
+        "2 ripe avocados, pitted and flesh scooped out",
+        "1.5 cups vegetable broth or chicken broth, chilled",
+        "1/2 cup full-fat coconut milk or heavy cream",
+        "Juice of 1 lime (about 2 tablespoons)",
+        "1/4 cup chopped fresh cilantro or parsley",
+        "1 small clove garlic, minced (optional)",
+        "Salt and freshly ground black pepper to taste",
+        "Optional garnish: Drizzle of olive oil, pinch of paprika or cayenne, a few diced tomatoes"
+      ],
+      "instructions": [
+        "In a blender or food processor, combine avocado flesh, chilled broth, coconut milk/heavy cream, lime juice, cilantro/parsley, and minced garlic (if using).",
+        "Blend until completely smooth and creamy. If the soup is too thick, add a little more chilled broth or water, 1-2 tablespoons at a time, until desired consistency is reached.",
+        "Season with salt and pepper to taste.",
+        "Transfer the soup to a container and chill thoroughly in the refrigerator for at least 30 minutes to 1 hour (or longer) to allow flavors to meld and the soup to get very cold.",
+        "Stir again before serving.",
+        "Ladle into chilled bowls or glasses. Garnish with a drizzle of olive oil, a pinch of paprika/cayenne, or a few diced tomatoes if desired."
+      ],
+      "notes": "Recipe 238 - Chilled Creamy Avocado Soup - Soups and Salads"
+    },
+    {
+      "name": "Peppery Arugula Salad with Parmesan and Lemon",
+      "category": "Soups and Salads",
+      "protein": "Cheese",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A simple yet elegant salad with peppery arugula, savory Parmesan, and a zesty lemon vinaigrette.",
+      "ingredients": [
+        "5 oz fresh arugula (baby arugula is nice)",
+        "1/4 cup shaved Parmesan cheese (use a vegetable peeler)",
+        "For the Lemon Vinaigrette:",
+        "3 tablespoons extra virgin olive oil",
+        "1.5 tablespoons fresh lemon juice",
+        "1/2 teaspoon Dijon mustard (optional, for emulsification)",
+        "Salt and freshly ground black pepper to taste",
+        "Optional additions: 2 tablespoons toasted pine nuts or walnuts, thinly sliced red onion (use sparingly)"
+      ],
+      "instructions": [
+        "Prepare the Lemon Vinaigrette: In a small bowl or jar, whisk together olive oil, fresh lemon juice, Dijon mustard (if using), salt, and pepper until well emulsified.",
+        "In a large salad bowl, place the fresh arugula.",
+        "If using nuts or red onion, add them to the arugula.",
+        "Drizzle the vinaigrette over the arugula and toss gently to coat the leaves lightly. Avoid overdressing.",
+        "Add the shaved Parmesan cheese and toss once more very gently, or arrange Parmesan on top after plating.",
+        "Serve immediately. This makes a great side salad for grilled meats or fish."
+      ],
+      "notes": "Recipe 239 - Peppery Arugula Salad with Parmesan and Lemon - Soups and Salads"
+    },
+    {
+      "name": "Classic Chicken Stir-fry (Broccoli & Peppers)",
+      "category": "Main Course",
+      "protein": "Chicken",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A quick and flavorful chicken stir-fry packed with broccoli and bell peppers in a savory keto sauce.",
+      "ingredients": [
+        "1.5 lbs boneless, skinless chicken breasts or thighs, thinly sliced or cut into bite-sized pieces",
+        "1 tablespoon avocado oil or sesame oil",
+        "1 medium head of broccoli, cut into small florets",
+        "1 red bell pepper, cored, seeded, and sliced",
+        "1 green bell pepper, cored, seeded, and sliced (optional)",
+        "2-3 cloves garlic, minced",
+        "1 teaspoon grated fresh ginger",
+        "Stir-fry Sauce:",
+        "1/4 cup soy sauce or coconut aminos",
+        "1 tablespoon rice vinegar (unseasoned, check for no sugar)",
+        "1/2 teaspoon sesame oil (for flavor)",
+        "Keto-friendly sweetener to taste (e.g., a few drops of liquid stevia or 1 tsp erythritol, optional)",
+        "Optional: 1/4 teaspoon xanthan gum mixed with 1 tablespoon cold water (for thickening)"
+      ],
+      "instructions": [
+        "Prepare Sauce: In a small bowl, whisk together all stir-fry sauce ingredients (soy sauce/coconut aminos, rice vinegar, sesame oil, sweetener if using). If using xanthan gum slurry for thickening, prepare it and set aside.",
+        "Cook Chicken: Heat avocado oil or sesame oil in a large skillet or wok over medium-high heat.",
+        "Add chicken pieces and stir-fry until browned and cooked through. Remove chicken from skillet and set aside.",
+        "Stir-fry Vegetables: Add broccoli florets and sliced bell peppers to the same skillet (add a touch more oil if needed). Stir-fry for 4-6 minutes, until vegetables are tender-crisp.",
+        "Add minced garlic and grated ginger to the vegetables. Stir-fry for 1 minute more until fragrant.",
+        "Combine: Return the cooked chicken to the skillet with the vegetables.",
+        "Pour the prepared stir-fry sauce over the chicken and vegetables. Toss well to coat everything.",
+        "If using xanthan gum slurry, drizzle it in while stirring and cook for 1-2 minutes, until the sauce thickens slightly.",
+        "Cook for another 1-2 minutes, until everything is heated through.",
+        "Serve hot, perhaps over cauliflower rice or with shirataki noodles. Garnish with sesame seeds if desired."
+      ],
+      "notes": "Recipe 240 - Classic Chicken Stir-fry (Broccoli & Peppers) - Main Course"
+    },
+    {
+      "name": "Roasted Pork Tenderloin with Brussels Sprouts and Bacon",
+      "category": "Main Course",
+      "protein": "Pork",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "Juicy roasted pork tenderloin served with crispy Brussels sprouts and bacon.",
+      "ingredients": [
+        "1-1.5 lb pork tenderloin",
+        "1 lb Brussels sprouts, trimmed and halved (or quartered if large)",
+        "4-6 slices bacon, chopped",
+        "2 tablespoons olive oil or avocado oil, divided",
+        "Seasoning for Pork:",
+        "1 teaspoon garlic powder",
+        "1/2 teaspoon dried rosemary or thyme",
+        "Salt and freshly ground black pepper to taste",
+        "Seasoning for Brussels Sprouts:",
+        "Salt and freshly ground black pepper to taste"
+      ],
+      "instructions": [
+        "Prepare Ingredients: Preheat oven to 400°F (200°C).",
+        "Pat the pork tenderloin dry. Season generously on all sides with garlic powder, rosemary/thyme, salt, and pepper.",
+        "In a large bowl, toss the trimmed and halved/quartered Brussels sprouts with 1 tablespoon of olive/avocado oil, salt, and pepper.",
+        "Cook Bacon: In a large oven-safe skillet (cast iron is great), cook the chopped bacon over medium heat until crispy. Remove bacon with a slotted spoon and set aside on a paper towel-lined plate, reserving about 1 tablespoon of bacon grease in the skillet (discard any excess or add 1 tbsp olive oil if not enough grease).",
+        "Sear Pork: Increase heat to medium-high. Add the seasoned pork tenderloin to the hot skillet with the bacon grease/oil. Sear on all sides until nicely browned (about 1-2 minutes per side).",
+        "Roast: Scatter the seasoned Brussels sprouts around the pork tenderloin in the skillet. If the skillet is too crowded, transfer everything to a large baking sheet.",
+        "Transfer the skillet (or baking sheet) to the preheated oven.",
+        "Roast for 15-25 minutes, or until the pork tenderloin reaches an internal temperature of 145°F (63°C) in the thickest part, and the Brussels sprouts are tender and slightly charred. Flip Brussels sprouts halfway through if possible.",
+        "Rest and Serve: Remove from oven. Transfer the pork tenderloin to a cutting board and let it rest for 5-10 minutes before slicing. This helps keep it juicy.",
+        "Toss the roasted Brussels sprouts with the crumbled crispy bacon.",
+        "Slice the pork tenderloin and serve alongside the bacon Brussels sprouts. A delicious family meal."
+      ],
+      "notes": "Recipe 241 - Roasted Pork Tenderloin with Brussels Sprouts and Bacon - Main Course"
+    },
+    {
+      "name": "Simplified Chicken Shawarma Plate",
+      "category": "Main Course",
+      "protein": "Chicken",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Flavorful Middle Eastern spiced chicken, pan-fried and served as a plate with simple keto sides.",
+      "ingredients": [
+        "1.5 lbs boneless, skinless chicken thighs or breasts, thinly sliced or cut into bite-sized pieces",
+        "Shawarma Marinade/Seasoning:",
+        "2 tablespoons olive oil",
+        "Juice of 1/2 lemon",
+        "2-3 cloves garlic, minced",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground coriander",
+        "1/2 teaspoon smoked paprika",
+        "1/2 teaspoon turmeric powder",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "Pinch of cayenne pepper (optional)",
+        "For Serving (Suggestions):",
+        "Lettuce leaves or chopped romaine",
+        "Sliced cucumbers and tomatoes (use tomatoes sparingly)",
+        "Thinly sliced red onion (optional)",
+        "Keto tzatziki sauce (see notes for quick version) or garlic sauce",
+        "Crumbled feta cheese (optional)"
+      ],
+      "instructions": [
+        "Marinate Chicken: In a medium bowl, combine chicken pieces with all marinade/seasoning ingredients (olive oil, lemon juice, garlic, cumin, coriander, paprika, turmeric, salt, pepper, cayenne). Mix well to ensure chicken is evenly coated. Let marinate for at least 20-30 minutes at room temperature, or longer (up to a few hours) in the refrigerator.",
+        "Cook Chicken: Heat a large skillet or griddle over medium-high heat (add a little more oil if needed, though marinade has oil).",
+        "Add the marinated chicken to the hot skillet in a single layer (cook in batches if necessary to avoid overcrowding). Cook for 5-8 minutes, stirring or flipping occasionally, until the chicken is cooked through, nicely browned, and slightly charred in places.",
+        "Assemble Plates: Arrange lettuce on plates. Top with the cooked chicken shawarma.",
+        "Add sides like sliced cucumbers, tomatoes, red onion, and feta cheese (if using).",
+        "Drizzle with keto tzatziki or garlic sauce.",
+        "Serve immediately. (Quick Tzatziki: Mix plain full-fat Greek yogurt or sour cream with grated cucumber (squeezed dry), minced garlic, lemon juice, chopped dill/mint, salt, and pepper)."
+      ],
+      "notes": "Recipe 242 - Simplified Chicken Shawarma Plate - Main Course"
+    },
+    {
+      "name": "Beef Stroganoff with Shirataki Noodles",
+      "category": "Main Course",
+      "protein": "Beef",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "A rich and creamy beef stroganoff made keto-friendly, served over shirataki noodles.",
+      "ingredients": [
+        "1 lb beef sirloin or tenderloin, thinly sliced against the grain (or ground beef)",
+        "1 tablespoon olive oil or avocado oil",
+        "1 tablespoon butter",
+        "8 oz cremini or button mushrooms, sliced",
+        "1 small onion, chopped (optional)",
+        "2 cloves garlic, minced",
+        "1 cup beef broth",
+        "1/2 cup sour cream (full-fat)",
+        "1-2 tablespoons heavy cream (optional, for extra richness)",
+        "1 teaspoon Dijon mustard (sugar-free)",
+        "Salt and freshly ground black pepper to taste",
+        "2 (7-8 oz) packages shirataki noodles (fettuccine or spaghetti style)",
+        "Fresh parsley or dill, chopped (for garnish)"
+      ],
+      "instructions": [
+        "Prepare Shirataki Noodles: Rinse shirataki noodles very well under cold running water for a couple of minutes. Then, parboil them in boiling water for 2-3 minutes. Drain thoroughly. To remove excess moisture and improve texture, dry-fry them in a clean, hot skillet for 5-7 minutes, tossing frequently, until they are no longer wet and make a slight squeaking sound. Set aside.",
+        "Cook Beef: Season sliced beef with salt and pepper. Heat olive/avocado oil in a large skillet over medium-high heat. Add beef in a single layer (cook in batches if necessary) and sear quickly until browned on all sides. Remove beef from skillet and set aside.",
+        "Sauté Vegetables: To the same skillet, add butter. Once melted, add sliced mushrooms (and onion, if using). Cook, stirring occasionally, until mushrooms are browned and softened, and onion is translucent (about 5-7 minutes).",
+        "Add minced garlic and cook for 1 minute more until fragrant.",
+        "Make Sauce: Pour in beef broth, scraping up any browned bits from the bottom of the pan. Bring to a simmer and cook for 3-5 minutes to reduce slightly.",
+        "Reduce heat to low. Stir in sour cream, heavy cream (if using), and Dijon mustard until well combined and the sauce is smooth. Do not let it boil after adding sour cream, or it may curdle.",
+        "Combine: Return the cooked beef to the skillet with the sauce. Stir gently to coat and heat through for a couple of minutes.",
+        "Season with additional salt and pepper to taste.",
+        "Serve: Toss the prepared shirataki noodles with the beef stroganoff, or serve the stroganoff over a bed of the noodles. Garnish with fresh parsley or dill."
+      ],
+      "notes": "Recipe 243 - Beef Stroganoff with Shirataki Noodles - Main Course"
+    },
+    {
+      "name": "Chicken Bacon Ranch Casserole",
+      "category": "Main Course",
+      "protein": "Chicken/Pork",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A hearty and crowd-pleasing casserole combining chicken, bacon, cheese, and ranch dressing.",
+      "ingredients": [
+        "2-3 cups cooked chicken, shredded or diced (rotisserie chicken works well)",
+        "6-8 slices bacon, cooked crispy and crumbled",
+        "8 oz cream cheese, softened and cubed",
+        "1/2 cup keto-friendly ranch dressing (check labels for sugar/carbs)",
+        "1/2 cup shredded cheddar cheese (or a Mexican blend), plus more for topping",
+        "Optional: 1/4 cup chopped green onions or chives",
+        "Optional: Steamed broccoli florets or cauliflower rice can be mixed in for added veggies"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C). Grease a medium baking dish (approx. 8x8 or 9x9 inch).",
+        "In a large bowl, combine the cooked shredded/diced chicken and most of the crumbled bacon (reserve some for topping).",
+        "Add the softened and cubed cream cheese, ranch dressing, and 1/2 cup of shredded cheddar cheese to the bowl. Add green onions/chives if using.",
+        "Stir everything together until well combined. If adding steamed broccoli or cauliflower rice, fold it in now.",
+        "Spread the mixture evenly into the prepared baking dish.",
+        "Top with the remaining shredded cheddar cheese and the reserved crumbled bacon.",
+        "Bake for 20-25 minutes, or until the casserole is heated through, bubbly around the edges, and the cheese on top is melted and lightly golden.",
+        "Let cool for 5-10 minutes before serving. This is a rich and flavorful weeknight meal."
+      ],
+      "notes": "Recipe 244 - Chicken Bacon Ranch Casserole - Main Course"
+    },
+    {
+      "name": "Easy Sausage and Cauliflower Rice Pilaf",
+      "category": "Main Course",
+      "protein": "Pork",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A flavorful and satisfying one-pan meal using cauliflower rice and keto-friendly sausage.",
+      "ingredients": [
+        "1 lb keto-friendly smoked sausage (e.g., andouille, kielbasa), sliced into rounds",
+        "1 tablespoon olive oil or avocado oil",
+        "1 small onion, chopped (optional)",
+        "1 red or green bell pepper, chopped (optional)",
+        "2 cloves garlic, minced",
+        "1 (12-16 oz) bag frozen cauliflower rice (or fresh riced cauliflower)",
+        "1/2 cup chicken broth or water",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon dried oregano or thyme",
+        "Salt and freshly ground black pepper to taste",
+        "Fresh parsley, chopped (for garnish)"
+      ],
+      "instructions": [
+        "Heat oil in a large skillet or Dutch oven over medium-high heat.",
+        "Add sliced sausage and cook until lightly browned on both sides. Remove sausage from skillet and set aside.",
+        "To the same skillet, add chopped onion and bell pepper (if using). Cook, stirring occasionally, for 3-5 minutes until softened.",
+        "Add minced garlic and cook for 1 minute more until fragrant.",
+        "Stir in the riced cauliflower. Cook for 5-7 minutes, stirring occasionally, until it is tender-crisp. If using frozen, cook until any excess moisture has evaporated.",
+        "Pour in chicken broth or water. Add smoked paprika, oregano/thyme, salt, and pepper. Stir to combine.",
+        "Return the cooked sausage to the skillet with the cauliflower rice mixture.",
+        "Stir well, cover, and reduce heat to low. Simmer for 5-7 minutes, or until the liquid is mostly absorbed and all flavors have melded.",
+        "Taste and adjust seasonings if needed.",
+        "Garnish with fresh chopped parsley and serve hot. A quick and complete weeknight meal."
+      ],
+      "notes": "Recipe 245 - Easy Sausage and Cauliflower Rice Pilaf - Main Course"
+    },
+    {
+      "name": "Hearty Ground Beef and Cabbage Casserole",
+      "category": "Main Course",
+      "protein": "Beef",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A simple, budget-friendly, and comforting casserole with ground beef and tender cabbage, topped with cheese.",
+      "ingredients": [
+        "1 lb ground beef",
+        "1 medium onion, chopped (optional)",
+        "1 small head of cabbage (about 4-5 cups), cored and shredded or roughly chopped",
+        "2 cloves garlic, minced",
+        "1/2 cup beef broth or heavy cream (or a mix)",
+        "1 teaspoon dried thyme or savory seasoning",
+        "Salt and freshly ground black pepper to taste",
+        "1 cup shredded cheddar or mozzarella cheese"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C). Grease a 9x13 inch or similar sized baking dish.",
+        "In a large skillet, cook ground beef and chopped onion (if using) over medium heat until beef is browned. Drain any excess fat.",
+        "Stir in minced garlic, dried thyme/savory, salt, and pepper. Cook for 1 minute more.",
+        "In the prepared baking dish, spread about half of the shredded/chopped cabbage in an even layer.",
+        "Top with the seasoned ground beef mixture, spreading it evenly.",
+        "Layer the remaining cabbage over the beef.",
+        "Pour the beef broth or heavy cream evenly over the top of the cabbage.",
+        "Sprinkle the shredded cheddar or mozzarella cheese all over the top.",
+        "Cover the baking dish with foil.",
+        "Bake for 30 minutes. Remove the foil and bake for another 15-20 minutes, or until the cabbage is tender, the casserole is bubbly, and the cheese is melted and lightly golden.",
+        "Let rest for 5-10 minutes before serving. A comforting and filling weeknight meal."
+      ],
+      "notes": "Recipe 246 - Hearty Ground Beef and Cabbage Casserole - Main Course"
+    },
+    {
+      "name": "Keto Moussaka (Layered Eggplant Casserole)",
+      "category": "Main Course",
+      "protein": "Beef/Lamb",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "A layered Greek-inspired casserole with roasted eggplant, a spiced meat sauce, and a creamy keto béchamel-style topping.",
+      "ingredients": [
+        "For the Eggplant Layers:",
+        "2 medium eggplants, sliced into 1/3-inch thick rounds",
+        "Olive oil for brushing",
+        "Salt",
+        "For the Meat Sauce:",
+        "1 lb ground lamb or beef",
+        "1 small onion, finely chopped (optional)",
+        "2 cloves garlic, minced",
+        "1/2 cup tomato paste (no sugar added) or 1 cup crushed tomatoes (no sugar added)",
+        "1/2 cup beef broth or dry red wine (check carbs)",
+        "1 teaspoon dried oregano",
+        "1/2 teaspoon ground cinnamon",
+        "Salt and freshly ground black pepper to taste",
+        "For the Keto Béchamel Topping:",
+        "2 tablespoons butter",
+        "4 oz cream cheese, softened and cubed",
+        "1/2 cup heavy cream",
+        "1/4 cup grated Parmesan cheese",
+        "1 large egg yolk",
+        "Pinch of ground nutmeg"
+      ],
+      "instructions": [
+        "Prepare Eggplant: Preheat oven to 400°F (200°C). Arrange eggplant slices on baking sheets lined with parchment paper. Brush both sides lightly with olive oil and sprinkle with salt. Roast for 15-20 minutes, flipping once, until tender and lightly browned. Set aside. Reduce oven to 375°F (190°C).",
+        "Make Meat Sauce: In a large skillet, cook ground lamb/beef and onion (if using) over medium heat until meat is browned. Drain excess fat. Stir in minced garlic, tomato paste/crushed tomatoes, beef broth/red wine, oregano, cinnamon, salt, and pepper. Bring to a simmer and cook for 10-15 minutes, until the sauce has thickened slightly. Taste and adjust seasonings.",
+        "Make Keto Béchamel: In a small saucepan over low heat, melt butter. Add cubed cream cheese and whisk until smooth. Gradually whisk in heavy cream until well combined. Remove from heat. Stir in grated Parmesan cheese and nutmeg. In a separate small bowl, lightly beat the egg yolk. Slowly whisk a tablespoon or two of the warm cream mixture into the egg yolk to temper it, then whisk the tempered yolk mixture back into the saucepan. Set aside.",
+        "Assemble Moussaka: In a greased 8x8 inch or similar baking dish, arrange half of the roasted eggplant slices in a slightly overlapping layer.",
+        "Spread all of the meat sauce evenly over the eggplant.",
+        "Arrange the remaining eggplant slices over the meat sauce.",
+        "Pour the keto béchamel topping evenly over the top layer of eggplant.",
+        "Bake: Bake at 375°F (190°C) for 25-35 minutes, or until the topping is set and golden brown, and the moussaka is bubbly.",
+        "Let Rest: Let the moussaka rest for at least 10-15 minutes before slicing and serving. This helps it hold its shape."
+      ],
+      "notes": "Recipe 247 - Keto Moussaka (Layered Eggplant Casserole) - Main Course"
+    },
+    {
+      "name": "Vanilla Coconut Almond Fat Bombs",
+      "category": "Desserts",
+      "protein": "N/A",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Creamy fat bombs with vanilla, coconut, and almond flavors.",
+      "ingredients": [
+        "1/2 cup coconut oil, softened",
+        "1/4 cup almond butter (unsweetened)",
+        "1/4 cup unsweetened shredded coconut",
+        "2-3 tablespoons keto-friendly powdered sweetener (e.g., erythritol)",
+        "1 teaspoon vanilla extract",
+        "Pinch of salt",
+        "Optional: A few slivered almonds for topping each bomb"
+      ],
+      "instructions": [
+        "In a medium bowl, combine softened coconut oil, almond butter, shredded coconut, powdered sweetener, vanilla extract, and salt.",
+        "Mix well with a fork or electric mixer until smooth and fully combined.",
+        "Taste and adjust sweetener if needed.",
+        "Drop by rounded teaspoonfuls onto a parchment-lined plate or use mini muffin liners/silicone molds.",
+        "If desired, press a slivered almond onto the top of each fat bomb before freezing.",
+        "Freeze for at least 30-60 minutes, or until firm.",
+        "Store in an airtight container in the refrigerator or freezer."
+      ],
+      "notes": "Recipe 248 - Vanilla Coconut Almond Fat Bombs - Desserts"
+    },
+    {
+      "name": "Lemon Coconut Fat Bombs",
+      "category": "Desserts",
+      "protein": "N/A",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Bright and zesty fat bombs with lemon and coconut.",
+      "ingredients": [
+        "1/2 cup coconut oil, softened",
+        "1/2 cup unsweetened shredded coconut",
+        "Zest of 1 lemon",
+        "1-2 tablespoons fresh lemon juice (to taste)",
+        "2-3 tablespoons keto-friendly powdered sweetener (e.g., erythritol)",
+        "Optional: 1/4 teaspoon lemon extract for more intense flavor"
+      ],
+      "instructions": [
+        "In a medium bowl, combine softened coconut oil, shredded coconut, lemon zest, lemon juice, and powdered sweetener.",
+        "Add lemon extract if using.",
+        "Mix well with a fork or electric mixer until all ingredients are thoroughly combined and the mixture is uniform.",
+        "Taste and adjust sweetener or lemon juice for desired tartness/sweetness.",
+        "Drop by rounded teaspoonfuls onto a parchment-lined plate or use mini muffin liners/silicone molds.",
+        "Freeze for at least 30-60 minutes, or until firm.",
+        "Store in an airtight container in the refrigerator or freezer. A refreshing treat!"
+      ],
+      "notes": "Recipe 249 - Lemon Coconut Fat Bombs - Desserts"
+    },
+    {
+      "name": "Simple Coconut Bites (No-Bake)",
+      "category": "Desserts",
+      "protein": "N/A",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Quick and easy no-bake bites made primarily with coconut and a hint of sweetness.",
+      "ingredients": [
+        "1 cup unsweetened shredded coconut",
+        "1/4 cup coconut oil, melted",
+        "2-3 tablespoons keto-friendly powdered sweetener (e.g., erythritol, or to taste)",
+        "1/2 teaspoon vanilla extract",
+        "Optional: Pinch of salt, 1 tablespoon almond flour for binding"
+      ],
+      "instructions": [
+        "In a medium bowl, combine unsweetened shredded coconut, melted coconut oil, powdered sweetener, and vanilla extract.",
+        "Add salt and almond flour if using. Mix very well until all ingredients are thoroughly combined and the mixture holds together when pressed.",
+        "If the mixture seems too loose, you can add a little more almond flour or chill it briefly.",
+        "Roll the mixture into small balls (about 1 inch in diameter) using your hands.",
+        "Place the coconut bites on a parchment-lined plate.",
+        "Refrigerate for at least 30 minutes to an hour, or freeze for 15-20 minutes, until firm.",
+        "Store in an airtight container in the refrigerator. These are a simple and satisfying sweet snack."
+      ],
+      "notes": "Recipe 250 - Simple Coconut Bites (No-Bake) - Desserts"
+    },
+    {
+      "name": "Homemade Ranch Dip with Vegetable Sticks",
+      "category": "Appetizers/Snacks",
+      "protein": "N/A",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Creamy homemade keto ranch dip perfect for serving with fresh vegetable sticks.",
+      "ingredients": [
+        "1/2 cup sour cream (full-fat)",
+        "1/4 cup mayonnaise (keto-friendly, check for no sugar)",
+        "1-2 tablespoons unsweetened almond milk or water (to reach desired consistency)",
+        "1 teaspoon dried parsley",
+        "1/2 teaspoon dried dill weed",
+        "1/2 teaspoon garlic powder",
+        "1/2 teaspoon onion powder",
+        "1/4 teaspoon salt (or to taste)",
+        "1/8 teaspoon black pepper (or to taste)",
+        "Optional: 1 teaspoon apple cider vinegar or lemon juice for tang",
+        "For Dipping: Celery sticks, cucumber sticks, bell pepper strips, broccoli florets, cauliflower florets"
+      ],
+      "instructions": [
+        "In a medium bowl, combine sour cream and mayonnaise. Whisk until smooth.",
+        "Add dried parsley, dried dill, garlic powder, onion powder, salt, and pepper. Stir well.",
+        "If using, add apple cider vinegar or lemon juice for extra tang.",
+        "Gradually whisk in unsweetened almond milk or water, 1 tablespoon at a time, until the dip reaches your desired consistency.",
+        "Taste and adjust seasonings if needed.",
+        "For best flavor, cover and refrigerate for at least 20-30 minutes to allow the flavors to meld.",
+        "Serve chilled with an assortment of fresh, keto-friendly vegetable sticks."
+      ],
+      "notes": "Recipe 251 - Homemade Ranch Dip with Vegetable Sticks - Appetizers/Snacks"
+    },
+    {
+      "name": "Cream Cheese Stuffed Mini Sweet Peppers",
+      "category": "Appetizers/Snacks",
+      "protein": "Cheese",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Sweet mini peppers filled with savory herbed cream cheese, perfect served raw or lightly baked.",
+      "ingredients": [
+        "10-12 mini sweet peppers (various colors)",
+        "4 oz cream cheese, full-fat, softened",
+        "1 tablespoon chopped fresh chives or green onion tops",
+        "1/2 teaspoon garlic powder",
+        "Salt and freshly ground black pepper to taste",
+        "Optional: Pinch of paprika or a sprinkle of everything bagel seasoning"
+      ],
+      "instructions": [
+        "Wash the mini sweet peppers. Halve them lengthwise and carefully remove the seeds and membranes.",
+        "In a small bowl, combine the softened cream cheese, chopped chives/green onion, garlic powder, salt, and pepper. Mix well until smooth and all ingredients are incorporated.",
+        "Carefully spoon or pipe the herbed cream cheese mixture into each mini pepper half.",
+        "If desired, sprinkle the filled peppers with paprika or everything bagel seasoning.",
+        "Serve immediately for a crunchy, fresh snack. Alternatively, for a slightly softer pepper and warm filling, you can bake them: Preheat oven to 375°F (190°C). Arrange stuffed peppers on a baking sheet and bake for 10-12 minutes, or until peppers are slightly softened and the cheese is warm."
+      ],
+      "notes": "Recipe 252 - Cream Cheese Stuffed Mini Sweet Peppers - Appetizers/Snacks"
+    },
+    {
+      "name": "Salami and Herbed Cream Cheese Bites",
+      "category": "Appetizers/Snacks",
+      "protein": "Pork/Cheese",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Simple yet elegant bites of salami spread with herbed cream cheese, often topped with an olive or pickle.",
+      "ingredients": [
+        "4 oz thinly sliced salami (e.g., Genoa, Calabrese)",
+        "4 oz cream cheese, softened",
+        "1 tablespoon chopped fresh parsley or dill",
+        "1/2 teaspoon garlic powder (optional)",
+        "Pinch of black pepper",
+        "Optional toppings: Small pimento-stuffed olives, cornichons (tiny pickles, check carbs), or small pieces of bell pepper"
+      ],
+      "instructions": [
+        "In a small bowl, combine softened cream cheese, chopped fresh parsley or dill, garlic powder (if using), and black pepper. Mix until well combined.",
+        "Lay out the salami slices on a clean work surface.",
+        "Spread a small amount (about 1-2 teaspoons) of the herbed cream cheese mixture onto each salami slice.",
+        "If desired, place a small olive, cornichon piece, or bell pepper piece in the center or at one edge of the cream cheese.",
+        "You can serve them flat, fold the salami slice in half over the filling like a taco, or gently roll/fold them into a bite-sized shape.",
+        "If rolling or folding elaborately, you can secure with a toothpick.",
+        "Arrange on a platter and serve chilled or at room temperature. These make great party appetizers."
+      ],
+      "notes": "Recipe 253 - Salami and Herbed Cream Cheese Bites - Appetizers/Snacks"
+    },
+    {
+      "name": "Crispy Baked Avocado Fries",
+      "category": "Appetizers/Snacks",
+      "protein": "N/A",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "Creamy avocado slices coated in a keto-friendly 'breading' and baked until crispy.",
+      "ingredients": [
+        "2 firm, ripe avocados",
+        "1 large egg, beaten",
+        "1/2 cup almond flour",
+        "1/4 cup grated Parmesan cheese",
+        "1/2 teaspoon paprika (smoked or sweet)",
+        "1/2 teaspoon garlic powder",
+        "Salt and freshly ground black pepper to taste",
+        "Optional: Cooking oil spray (avocado or olive oil)"
+      ],
+      "instructions": [
+        "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper and ideally place an oven-safe wire rack on top.",
+        "Slice the avocados: Halve each avocado, remove the pit, and peel. Cut each half into thick wedges or 'fry' shapes (about 1/2 to 3/4 inch thick).",
+        "Set up breading station: In one shallow dish, place the beaten egg. In another shallow dish, combine almond flour, grated Parmesan cheese, paprika, garlic powder, salt, and pepper. Mix the dry ingredients well.",
+        "Bread the avocado slices: Dip each avocado wedge first into the beaten egg, allowing any excess to drip off.",
+        "Then, dredge the egg-coated avocado wedge in the seasoned almond flour mixture, pressing gently to ensure it's fully and evenly coated.",
+        "Place the coated avocado fries in a single layer on the prepared wire rack or parchment-lined baking sheet.",
+        "Lightly spray the avocado fries with cooking oil spray if desired, for extra crispiness.",
+        "Bake for 15-20 minutes, carefully flipping them halfway through, until they are golden brown and crispy on the outside.",
+        "Let cool for a few minutes before serving, as the inside will be hot and creamy. Serve with your favorite keto dipping sauce (e.g., spicy mayo, ranch, or garlic aioli)."
+      ],
+      "notes": "Recipe 254 - Crispy Baked Avocado Fries - Appetizers/Snacks"
+    },
+    {
+      "name": "Classic Keto Lemon Bars",
+      "category": "Desserts",
+      "protein": "Eggs",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "Tangy and sweet keto lemon bars with a buttery almond flour shortbread crust.",
+      "ingredients": [
+        "For the Shortbread Crust:",
+        "1.5 cups almond flour, finely ground",
+        "1/3 cup keto-friendly powdered sweetener (e.g., erythritol)",
+        "Pinch of salt",
+        "1/2 cup unsalted butter, cold and cubed (or melted - see notes)",
+        "For the Lemon Filling:",
+        "4 large eggs",
+        "3/4 cup keto-friendly granulated sweetener (e.g., erythritol or allulose blend)",
+        "1/2 cup fresh lemon juice (from about 2-3 lemons)",
+        "Zest of 1-2 lemons (to taste)",
+        "Optional: 1-2 tablespoons coconut flour or a pinch of xanthan gum (to help filling set firmer)"
+      ],
+      "instructions": [
+        "Prepare Crust: Preheat oven to 350°F (175°C). Grease and line an 8x8 inch baking pan with parchment paper, leaving an overhang on two sides for easy removal.",
+        "In a medium bowl, combine almond flour, powdered sweetener, and salt. If using cold cubed butter, cut it into the dry ingredients using a pastry blender or your fingers until the mixture resembles coarse crumbs. If using melted butter, stir it into the dry ingredients until a dough forms.",
+        "Press the crust mixture evenly into the bottom of the prepared baking pan.",
+        "Bake the crust for 10-15 minutes, or until it's lightly golden and set. Let it cool slightly while you prepare the filling.",
+        "Prepare Lemon Filling: In a medium bowl, whisk together eggs and granulated sweetener until well combined and slightly pale.",
+        "Whisk in fresh lemon juice and lemon zest until smooth. If using coconut flour or xanthan gum, whisk it in now to prevent clumps.",
+        "Pour the lemon filling evenly over the slightly cooled pre-baked crust.",
+        "Bake Again: Return the pan to the oven and bake for another 18-25 minutes, or until the lemon filling is just set (it should no longer be liquid and the edges should be set, but the center might still have a very slight jiggle). Be careful not to overbake.",
+        "Cool and Chill: Let the lemon bars cool completely at room temperature on a wire rack. Once cooled, cover the pan and refrigerate for at least 2-3 hours (preferably longer) to allow them to firm up fully before slicing.",
+        "Slice into squares and serve. Optional: Dust with a little extra keto powdered sweetener before serving."
+      ],
+      "notes": "Recipe 255 - Classic Keto Lemon Bars - Desserts"
+    },
+    {
+      "name": "Homemade Sugar-Free Whipped Cream",
+      "category": "Desserts",
+      "protein": "N/A",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Simple homemade sugar-free whipped cream, a versatile topping for many keto desserts or berries.",
+      "ingredients": [
+        "1 cup heavy whipping cream, very cold",
+        "1-2 tablespoons keto-friendly powdered sweetener (e.g., powdered erythritol, or to taste)",
+        "1/2 teaspoon vanilla extract (optional)"
+      ],
+      "instructions": [
+        "Chill your mixing bowl and beaters (or whisk attachment for a stand mixer) in the freezer for at least 10-15 minutes before starting. This helps the cream whip up better and achieve more volume.",
+        "Pour the cold heavy whipping cream into the chilled mixing bowl.",
+        "Begin beating the cream on medium speed with an electric mixer (or stand mixer with whisk attachment).",
+        "As the cream starts to thicken slightly (after about 1-2 minutes), gradually add the powdered sweetener and vanilla extract (if using).",
+        "Increase the mixer speed to medium-high and continue beating until soft peaks form (if you lift the beater, a peak forms and then softly droops) or until stiff peaks form (the peak holds its shape), depending on your preference. This usually takes another 2-4 minutes.",
+        "Be careful not to overbeat, as the cream can eventually turn into butter.",
+        "Use immediately as a topping for keto desserts, berries, or hot chocolate. Store any leftovers in an airtight container in the refrigerator for up to 2-3 days (it may deflate slightly over time)."
+      ],
+      "notes": "Recipe 256 - Homemade Sugar-Free Whipped Cream - Desserts"
+    },
+    {
+      "name": "Keto Sloppy Joes (Lettuce Cup or Chaffle)",
+      "category": "Main Course",
+      "protein": "Beef",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A family-friendly classic made keto, served in lettuce cups or on chaffles instead of buns.",
+      "ingredients": [
+        "1 lb ground beef",
+        "1/2 medium onion, finely chopped (optional)",
+        "1/2 green bell pepper, finely chopped (optional)",
+        "2 cloves garlic, minced",
+        "1/2 cup sugar-free tomato sauce or crushed tomatoes (no sugar added)",
+        "2 tablespoons tomato paste (no sugar added)",
+        "1 tablespoon Worcestershire sauce (ensure keto-friendly, low sugar)",
+        "1 tablespoon apple cider vinegar",
+        "1 teaspoon yellow mustard (or Dijon)",
+        "1/2 - 1 teaspoon keto-friendly sweetener (e.g., erythritol or monk fruit, to taste, optional)",
+        "1/2 teaspoon chili powder (optional)",
+        "Salt and freshly ground black pepper to taste",
+        "For serving: Large lettuce leaves (iceberg, romaine, or butter lettuce) or keto chaffles/buns"
+      ],
+      "instructions": [
+        "In a large skillet, cook ground beef (and onion/bell pepper, if using) over medium heat until the beef is browned and vegetables are softened. Break up the beef with a spoon as it cooks.",
+        "Drain any excess fat from the skillet.",
+        "Stir in minced garlic and cook for 1 minute more until fragrant.",
+        "Add the sugar-free tomato sauce, tomato paste, Worcestershire sauce, apple cider vinegar, mustard, sweetener (if using), and chili powder (if using). Stir well to combine.",
+        "Season with salt and pepper to taste.",
+        "Bring the mixture to a simmer. Reduce heat to low, cover (or leave slightly ajar), and let it simmer for 15-20 minutes, or until the sauce has thickened to your liking, stirring occasionally.",
+        "Taste and adjust seasonings if necessary (more sweetener for sweetness, vinegar for tang, or spices).",
+        "Serve the keto sloppy joe mixture hot in crisp lettuce cups, spooned over keto chaffles, or with your favorite keto-friendly buns. A quick and satisfying family meal."
+      ],
+      "notes": "Recipe 257 - Keto Sloppy Joes (Lettuce Cup or Chaffle) - Main Course"
+    },
+    {
+      "name": "Simple Taco Skillet",
+      "category": "Main Course",
+      "protein": "Beef",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A quick one-pan meal with all the flavors of tacos, easily customizable with your favorite toppings.",
+      "ingredients": [
+        "1 lb ground beef or turkey",
+        "1 small onion, chopped (optional)",
+        "1 packet keto-friendly taco seasoning (check for low sugar/no fillers) OR Homemade Taco Seasoning (see notes)",
+        "1/2 cup water or beef broth",
+        "Optional additions during cooking: 1/2 can (approx. 4-5 oz) diced tomatoes with green chilies (e.g., Ro*Tel, undrained, check carbs), 1/2 chopped bell pepper",
+        "Toppings: Shredded lettuce, shredded cheddar cheese, sour cream, guacamole or diced avocado, keto-friendly salsa, sliced jalapeños"
+      ],
+      "instructions": [
+        "Heat a large skillet over medium-high heat. Add ground beef/turkey (and onion, if using). Cook, breaking up the meat with a spoon, until browned and cooked through. Drain any excess fat.",
+        "Stir in the taco seasoning packet or your homemade taco seasoning blend.",
+        "Pour in water or beef broth. If using diced tomatoes with green chilies or chopped bell pepper, add them now.",
+        "Stir well to combine and bring the mixture to a simmer.",
+        "Reduce heat to low and let it simmer for 5-10 minutes, or until the liquid has reduced and the sauce has thickened slightly, stirring occasionally.",
+        "Serve the taco meat hot directly from the skillet, or spooned into bowls. Let everyone customize their serving with desired toppings like shredded lettuce, cheese, sour cream, avocado, and salsa.",
+        "(Homemade Taco Seasoning: Mix 1 tbsp chili powder, 1.5 tsp cumin, 1 tsp salt, 1 tsp pepper, 1/2 tsp paprika, 1/4 tsp garlic powder, 1/4 tsp onion powder, 1/4 tsp dried oregano, pinch of cayenne pepper)."
+      ],
+      "notes": "Recipe 258 - Simple Taco Skillet - Main Course"
+    },
+    {
+      "name": "Buffalo Chicken Dip (Baked)",
+      "category": "Appetizers/Snacks",
+      "protein": "Chicken/Cheese",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A creamy, cheesy, and spicy dip that's always a crowd-pleaser, served with keto dippers.",
+      "ingredients": [
+        "2 cups cooked chicken, shredded or finely diced (rotisserie chicken is great)",
+        "8 oz cream cheese, full-fat, softened and cubed",
+        "1/2 cup keto-friendly buffalo hot sauce (e.g., Frank's RedHot Original, adjust to spice preference)",
+        "1/2 cup keto-friendly ranch dressing or blue cheese dressing (check labels)",
+        "1 cup shredded cheddar cheese or Monterey Jack cheese (or a mix), divided",
+        "Optional: 2-3 green onions, thinly sliced (for mixing in or garnish)"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C). Lightly grease a small baking dish (approx. 1-1.5 quart or an 8x8 inch dish).",
+        "In a medium mixing bowl, combine the shredded/diced cooked chicken, softened cream cheese, buffalo hot sauce, ranch or blue cheese dressing, and 1/2 cup of the shredded cheese. Add most of the green onions if using, reserving some for garnish.",
+        "Stir well until all ingredients are evenly combined.",
+        "Spread the chicken mixture evenly into the prepared baking dish.",
+        "Sprinkle the remaining 1/2 cup of shredded cheese over the top.",
+        "Bake for 15-20 minutes, or until the dip is heated through, bubbly around the edges, and the cheese on top is melted and lightly golden.",
+        "Let cool for 5-10 minutes before serving, as it will be very hot.",
+        "Garnish with reserved green onions if desired. Serve warm with keto-friendly dippers like celery sticks, cucumber slices, bell pepper strips, pork rinds, or keto crackers."
+      ],
+      "notes": "Recipe 259 - Buffalo Chicken Dip (Baked) - Appetizers/Snacks"
+    },
+    {
+      "name": "Crispy Baked Buffalo Wings",
+      "category": "Appetizers/Snacks",
+      "protein": "Chicken",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Extra crispy baked chicken wings tossed in classic buffalo sauce, perfect for game day or any occasion.",
+      "ingredients": [
+        "2 lbs chicken wings (flats and drumettes separated)",
+        "1 tablespoon baking powder (NOT baking soda - this helps with crispiness)",
+        "1 teaspoon salt (or to taste)",
+        "1/2 teaspoon black pepper (or to taste)",
+        "For the Buffalo Sauce:",
+        "1/2 cup keto-friendly hot sauce (e.g., Frank's RedHot Original)",
+        "1/4 cup unsalted butter, melted",
+        "Optional: 1/2 teaspoon garlic powder or a dash of Worcestershire sauce (keto-friendly)",
+        "For Serving: Celery sticks, cucumber sticks, keto ranch or blue cheese dressing"
+      ],
+      "instructions": [
+        "Prepare Wings: Preheat oven to 400°F (200°C). Line a large baking sheet with parchment paper and place an oven-safe wire rack on top. This allows air to circulate for crispier wings.",
+        "Thoroughly pat the chicken wings dry with paper towels. This is crucial for achieving crispy skin.",
+        "In a large bowl, toss the very dry wings with baking powder, salt, and pepper until evenly coated.",
+        "Arrange the wings in a single layer on the prepared wire rack, ensuring they are not touching.",
+        "Bake: Bake for 40-50 minutes, flipping the wings halfway through, until they are golden brown, very crispy, and cooked through (internal temperature of 165°F or 74°C). Some ovens may require a slightly higher temp (e.g., 425°F) for the last 10-15 minutes for extra crispiness.",
+        "Make Buffalo Sauce: While the wings are baking (or in the last 5-10 minutes), prepare the sauce. In a small bowl, whisk together the hot sauce and melted butter. Add garlic powder or Worcestershire sauce if using. Mix well.",
+        "Toss Wings: Once the wings are cooked and crispy, transfer them to a large clean bowl. Pour the buffalo sauce over the hot wings and toss gently but thoroughly until all wings are evenly coated.",
+        "Serve immediately with celery sticks, cucumber sticks, and keto ranch or blue cheese dressing for dipping."
+      ],
+      "notes": "Recipe 260 - Crispy Baked Buffalo Wings - Appetizers/Snacks"
+    },
+    {
+      "name": "Chicken Alfredo with Steamed Broccoli",
+      "category": "Main Course",
+      "protein": "Chicken/Cheese",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Tender chicken and steamed broccoli florets smothered in a rich and creamy homemade Alfredo sauce.",
+      "ingredients": [
+        "1.5 lbs boneless, skinless chicken breasts or thighs, cut into bite-sized pieces",
+        "1 large head of broccoli, cut into florets (about 4 cups)",
+        "For the Alfredo Sauce:",
+        "1/4 cup unsalted butter (4 tablespoons)",
+        "2-3 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese, plus more for serving",
+        "Salt and freshly ground black pepper to taste",
+        "Pinch of ground nutmeg (optional)",
+        "Optional: 1 tablespoon olive oil for cooking chicken"
+      ],
+      "instructions": [
+        "Cook Chicken: Season chicken pieces with salt and pepper. Heat olive oil (if using) or a little butter in a large skillet over medium-high heat. Add chicken and cook until browned and cooked through. Remove chicken from skillet and set aside.",
+        "Steam Broccoli: Steam broccoli florets until tender-crisp (about 3-5 minutes). You can do this in a steamer basket over boiling water or in the microwave with a little water. Drain well.",
+        "Make Alfredo Sauce: In the same skillet (or a clean saucepan), melt butter over medium heat. Add minced garlic and cook for about 1 minute until fragrant (be careful not to burn it).",
+        "Pour in heavy cream and bring to a gentle simmer. Cook for 2-3 minutes, stirring occasionally, until it starts to thicken slightly.",
+        "Reduce heat to low. Gradually whisk in the grated Parmesan cheese until melted and the sauce is smooth and creamy. Do not let the sauce boil after adding cheese.",
+        "Season the Alfredo sauce with salt, pepper, and a pinch of nutmeg (if using) to taste.",
+        "Combine and Serve: Add the cooked chicken and steamed broccoli florets to the skillet with the Alfredo sauce. Toss gently to coat everything evenly and heat through for a couple of minutes.",
+        "Serve immediately, garnished with additional grated Parmesan cheese and fresh parsley if desired. A comforting and easy family meal."
+      ],
+      "notes": "Recipe 261 - Chicken Alfredo with Steamed Broccoli - Main Course"
+    },
+    {
+      "name": "Sheet Pan Chicken Thighs with Brussels Sprouts and Bacon",
+      "category": "Main Course",
+      "protein": "Chicken/Pork",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A flavorful and easy one-pan meal featuring crispy chicken thighs, roasted Brussels sprouts, and bacon.",
+      "ingredients": [
+        "1.5 lbs bone-in, skin-on chicken thighs",
+        "1 lb Brussels sprouts, trimmed and halved",
+        "4-6 slices bacon, chopped into 1/2-inch pieces",
+        "2 tablespoons olive oil or avocado oil",
+        "1 teaspoon garlic powder",
+        "1/2 teaspoon dried thyme or rosemary",
+        "Salt and freshly ground black pepper to taste"
+      ],
+      "instructions": [
+        "Preheat oven to 400°F (200°C). Line a large baking sheet with parchment paper for easy cleanup.",
+        "Pat the chicken thighs dry with paper towels. Season generously on all sides with salt, pepper, garlic powder, and dried thyme/rosemary.",
+        "In a large bowl, toss the trimmed and halved Brussels sprouts with olive oil (or avocado oil), salt, and pepper until evenly coated.",
+        "Arrange the seasoned chicken thighs on one side of the prepared baking sheet.",
+        "Scatter the seasoned Brussels sprouts in a single layer on the other side of the baking sheet.",
+        "Sprinkle the chopped bacon pieces over both the chicken and the Brussels sprouts.",
+        "Roast for 30-40 minutes, or until the chicken thighs are cooked through (internal temperature reaches 165°F or 74°C), the skin is crispy and golden brown, the Brussels sprouts are tender and slightly charred, and the bacon is crispy.",
+        "You may want to stir the Brussels sprouts halfway through roasting for even cooking.",
+        "Let the chicken rest for a few minutes before serving. Serve hot directly from the sheet pan. A very satisfying and easy weeknight dinner."
+      ],
+      "notes": "Recipe 262 - Sheet Pan Chicken Thighs with Brussels Sprouts and Bacon - Main Course"
+    },
+    {
+      "name": "Garlic Parmesan Chicken Tenders with Keto Coleslaw",
+      "category": "Main Course",
+      "protein": "Chicken/Cheese",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Crispy baked or pan-fried chicken tenders with a savory garlic Parmesan coating, served with a creamy keto coleslaw.",
+      "ingredients": [
+        "For the Chicken Tenders:",
+        "1.5 lbs chicken breast tenderloins (or chicken breasts cut into strips)",
+        "1 large egg, beaten",
+        "Coating:",
+        "1/2 cup grated Parmesan cheese",
+        "1/4 cup almond flour",
+        "1 teaspoon garlic powder",
+        "1/2 teaspoon dried Italian seasoning or oregano",
+        "Salt and freshly ground black pepper to taste",
+        "2-3 tablespoons olive oil or avocado oil (for pan-frying or brushing if baking)",
+        "For the Keto Coleslaw:",
+        "1 (14-16 oz) bag coleslaw mix (shredded cabbage and carrots - use carrots sparingly)",
+        "1/2 cup mayonnaise (keto-friendly)",
+        "2 tablespoons apple cider vinegar",
+        "1-2 teaspoons keto-friendly sweetener (e.g., erythritol, or to taste)",
+        "1/4 teaspoon celery seeds (optional)",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Prepare Coleslaw: In a large bowl, combine coleslaw mix. In a separate small bowl, whisk together mayonnaise, apple cider vinegar, sweetener, celery seeds (if using), salt, and pepper. Pour dressing over coleslaw mix and toss to combine. Cover and refrigerate for at least 20-30 minutes to allow flavors to meld.",
+        "Prepare Chicken Tenders: Pat chicken tenderloins/strips dry with paper towels.",
+        "Set up breading station: In one shallow dish, place the beaten egg. In another shallow dish, combine grated Parmesan cheese, almond flour, garlic powder, Italian seasoning/oregano, salt, and pepper. Mix the dry ingredients well.",
+        "Dip each chicken tender into the beaten egg, letting any excess drip off.",
+        "Then, dredge the egg-coated tender in the Parmesan mixture, pressing gently to ensure it's well coated on all sides.",
+        "Cook Chicken Tenders (Choose one method):",
+        "Pan-Frying: Heat olive oil/avocado oil in a large skillet over medium heat. Carefully place coated chicken tenders in the hot oil (do not overcrowd). Cook for 3-5 minutes per side, until golden brown, crispy, and cooked through.",
+        "Baking: Preheat oven to 400°F (200°C). Arrange coated tenders on a baking sheet lined with parchment paper (preferably on a wire rack for crispiness). Brush or spray lightly with oil. Bake for 15-20 minutes, flipping once, until golden and cooked through.",
+        "Serve: Serve the hot garlic Parmesan chicken tenders immediately with the chilled keto coleslaw. A family-friendly favorite."
+      ],
+      "notes": "Recipe 263 - Garlic Parmesan Chicken Tenders with Keto Coleslaw - Main Course"
+    },
+    {
+      "name": "Fathead Dough Pizza (Pepperoni)",
+      "category": "Main Course",
+      "protein": "Cheese/Pork",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "A popular keto pizza crust made with mozzarella and almond flour, topped with pepperoni.",
+      "ingredients": [
+        "For the Fathead Dough Crust:",
+        "1.5 cups shredded mozzarella cheese (low-moisture, part-skim or whole milk)",
+        "2 tablespoons cream cheese, full-fat, cubed",
+        "3/4 cup almond flour, finely ground",
+        "1 large egg, beaten",
+        "Optional: 1/2 teaspoon garlic powder or Italian seasoning for crust flavor",
+        "For the Toppings:",
+        "1/4 - 1/2 cup keto-friendly pizza sauce or marinara (no sugar added)",
+        "1 cup shredded mozzarella cheese (or more, to taste)",
+        "Pepperoni slices (check for no added sugar/fillers)",
+        "Other optional keto toppings: Cooked sausage, mushrooms, olives, bell peppers"
+      ],
+      "instructions": [
+        "Prepare Fathead Dough: Preheat oven to 425°F (220°C). Line a pizza pan or large baking sheet with parchment paper.",
+        "In a microwave-safe bowl, combine 1.5 cups of shredded mozzarella and cubed cream cheese.",
+        "Microwave on high for 60-90 seconds, or until the cheeses are completely melted and can be stirred together smoothly. Stir well.",
+        "Quickly add the almond flour, beaten egg, and optional garlic powder/Italian seasoning to the melted cheese mixture. Stir vigorously with a spatula or sturdy spoon until a cohesive dough forms. The dough will be sticky; you may need to use your hands (lightly oiled if helpful) to fully incorporate.",
+        "Shape Crust: Transfer the dough to the center of the parchment-lined pizza pan/baking sheet. Place another piece of parchment paper on top of the dough.",
+        "Using a rolling pin or your hands, press and roll the dough out between the parchment paper into a thin, even round or rectangular pizza crust (about 1/8 to 1/4 inch thick). Remove the top piece of parchment paper.",
+        "Pre-bake Crust: Bake the crust for 8-12 minutes, or until it is set and lightly golden brown. If large air bubbles form, you can gently prick them with a fork.",
+        "Add Toppings: Remove the pre-baked crust from the oven. Spread the keto-friendly pizza sauce evenly over the surface, leaving a small border.",
+        "Sprinkle with 1 cup of shredded mozzarella cheese, then arrange pepperoni slices and any other desired keto toppings.",
+        "Bake Again: Return the pizza to the oven and bake for another 7-12 minutes, or until the cheese is melted, bubbly, and lightly golden, and the toppings are heated through.",
+        "Let cool for a few minutes before slicing and serving. A very popular keto meal!"
+      ],
+      "notes": "Recipe 264 - Fathead Dough Pizza (Pepperoni) - Main Course"
+    },
+    {
+      "name": "Pork Chops with Savory Cabbage Stir-fry",
+      "category": "Main Course",
+      "protein": "Pork",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Pan-seared pork chops served with a quick and flavorful cabbage stir-fry.",
+      "ingredients": [
+        "For the Pork Chops:",
+        "2-4 thick-cut pork chops (bone-in or boneless)",
+        "1 tablespoon olive oil or avocado oil",
+        "Seasoning: Salt, black pepper, garlic powder, paprika",
+        "For the Cabbage Stir-fry:",
+        "1 tablespoon avocado oil or sesame oil",
+        "1/2 small head of cabbage, cored and thinly shredded or chopped",
+        "1 small onion, thinly sliced (optional)",
+        "1-2 cloves garlic, minced",
+        "1-2 tablespoons soy sauce or coconut aminos",
+        "1 teaspoon grated fresh ginger (optional)",
+        "Optional: Pinch of red pepper flakes"
+      ],
+      "instructions": [
+        "Prepare Pork Chops: Pat pork chops dry. Season generously on all sides with salt, pepper, garlic powder, and paprika.",
+        "Cook Pork Chops: Heat 1 tablespoon of olive/avocado oil in a large skillet over medium-high heat. Sear pork chops for 4-6 minutes per side (depending on thickness) until golden brown and cooked through (internal temperature of 145°F or 63°C). Remove from skillet, set aside, and keep warm.",
+        "Prepare Cabbage Stir-fry: In the same skillet (or a clean one/wok), heat 1 tablespoon of avocado/sesame oil over medium-high heat.",
+        "Add shredded/chopped cabbage and sliced onion (if using). Stir-fry for 5-7 minutes, until the cabbage is tender-crisp and slightly wilted.",
+        "Add minced garlic and grated ginger (if using) to the skillet. Stir-fry for 1 minute more until fragrant.",
+        "Pour soy sauce/coconut aminos over the cabbage mixture. Add red pepper flakes if desired. Toss well to coat and cook for another 1-2 minutes until the liquid has slightly reduced.",
+        "Serve: Serve the pan-seared pork chops alongside the savory cabbage stir-fry. A simple and satisfying weeknight meal."
+      ],
+      "notes": "Recipe 265 - Pork Chops with Savory Cabbage Stir-fry - Main Course"
+    },
+    {
+      "name": "One-Pan Lemon Garlic Salmon and Spinach",
+      "category": "Main Course",
+      "protein": "Fish",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A quick and healthy sheet pan meal featuring salmon fillets and fresh spinach, all cooked together.",
+      "ingredients": [
+        "2-4 salmon fillets (about 4-6 oz each), skin on or off",
+        "5-6 oz fresh baby spinach",
+        "2 tablespoons olive oil or melted butter, divided",
+        "2-3 cloves garlic, minced",
+        "Juice of 1/2 lemon, plus lemon slices for topping (optional)",
+        "Salt and freshly ground black pepper to taste",
+        "Optional: 1/4 teaspoon dried dill or parsley"
+      ],
+      "instructions": [
+        "Preheat oven to 400°F (200°C). Line a large baking sheet with parchment paper.",
+        "Pat the salmon fillets dry with paper towels. Place them on one side of the prepared baking sheet.",
+        "In a small bowl, combine 1 tablespoon of olive oil (or melted butter), minced garlic, lemon juice, salt, pepper, and dried dill/parsley (if using).",
+        "Brush or pour this mixture evenly over the salmon fillets. Top with lemon slices if desired.",
+        "Roast the salmon for 8-10 minutes.",
+        "While the salmon starts to cook, place the fresh baby spinach in a medium bowl. Drizzle with the remaining 1 tablespoon of olive oil (or melted butter) and season lightly with salt and pepper. Toss gently to coat.",
+        "After the initial 8-10 minutes of roasting the salmon, carefully remove the baking sheet from the oven. Scatter the seasoned spinach in a single layer on the empty side of the baking sheet, around the salmon.",
+        "Return the baking sheet to the oven and continue to roast for another 4-7 minutes, or until the salmon is cooked through and flakes easily with a fork, and the spinach is wilted.",
+        "Serve immediately, with any pan juices spooned over the salmon and spinach. A very quick and healthy weeknight dinner."
+      ],
+      "notes": "Recipe 266 - One-Pan Lemon Garlic Salmon and Spinach - Main Course"
+    },
+    {
+      "name": "Fresh Shrimp and Avocado Salad",
+      "category": "Soups and Salads",
+      "protein": "Fish/Seafood",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A light and refreshing salad with cooked shrimp, creamy avocado, and a zesty lime dressing.",
+      "ingredients": [
+        "1 lb cooked shrimp, peeled, deveined, and chilled (tails removed, can be whole or roughly chopped)",
+        "2 ripe avocados, diced",
+        "1/4 cup finely diced red onion (optional, can soak in cold water for 10 mins to mellow flavor)",
+        "1/4 cup chopped fresh cilantro or parsley",
+        "Dressing:",
+        "Juice of 1-2 limes (to taste)",
+        "2 tablespoons extra virgin olive oil",
+        "Salt and freshly ground black pepper to taste",
+        "Optional: Pinch of red pepper flakes or a minced jalapeño for spice"
+      ],
+      "instructions": [
+        "If using frozen cooked shrimp, thaw them according to package directions and ensure they are well-drained and chilled.",
+        "In a large salad bowl, gently combine the chilled cooked shrimp, diced avocado, diced red onion (if using), and chopped cilantro/parsley.",
+        "Prepare Dressing: In a small bowl or jar, whisk together lime juice, olive oil, salt, pepper, and optional red pepper flakes/jalapeño.",
+        "Pour the dressing over the shrimp and avocado mixture.",
+        "Toss very gently to combine all ingredients, being careful not to mash the avocado too much.",
+        "Taste and adjust seasonings (lime juice, salt, pepper) if needed.",
+        "Serve immediately on its own, over a bed of lettuce, or in lettuce cups. This is best enjoyed fresh due to the avocado."
+      ],
+      "notes": "Recipe 267 - Fresh Shrimp and Avocado Salad - Soups and Salads"
+    },
+    {
+      "name": "Quick Shrimp and Zoodle Stir-fry",
+      "category": "Main Course",
+      "protein": "Fish/Seafood",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A fast and flavorful stir-fry with shrimp, zucchini noodles, and a simple savory sauce.",
+      "ingredients": [
+        "1 lb large shrimp, peeled and deveined",
+        "2-3 medium zucchinis, spiralized into noodles (zoodles)",
+        "1 tablespoon avocado oil or sesame oil",
+        "2-3 cloves garlic, minced",
+        "1 teaspoon grated fresh ginger",
+        "Stir-fry Sauce:",
+        "2-3 tablespoons soy sauce or coconut aminos",
+        "1 teaspoon sesame oil (for flavor)",
+        "Optional: 1/2 teaspoon sriracha or a pinch of red pepper flakes for heat",
+        "Optional: Keto-friendly sweetener to taste (a few drops)",
+        "Garnish: Sesame seeds, chopped green onions"
+      ],
+      "instructions": [
+        "Pat the shrimp dry with paper towels.",
+        "Prepare Stir-fry Sauce: In a small bowl, whisk together soy sauce/coconut aminos, sesame oil, sriracha/red pepper flakes (if using), and sweetener (if using). Set aside.",
+        "Heat avocado oil or sesame oil in a large skillet or wok over medium-high heat.",
+        "Add minced garlic and grated ginger to the hot oil. Stir-fry for about 30 seconds until fragrant.",
+        "Add the shrimp to the skillet in a single layer. Cook for 1-2 minutes per side, until pink and opaque. Do not overcook. Remove shrimp from skillet and set aside.",
+        "Add the zucchini noodles (zoodles) to the same skillet. Stir-fry for 2-4 minutes, until the zoodles are slightly tender but still have a bit of a bite (al dente). Be careful not to overcook, as they can become watery.",
+        "Return the cooked shrimp to the skillet with the zoodles.",
+        "Pour the prepared stir-fry sauce over everything. Toss well to coat and heat through for about 1-2 minutes.",
+        "Serve immediately, garnished with sesame seeds and chopped green onions if desired. A very quick weeknight meal."
+      ],
+      "notes": "Recipe 268 - Quick Shrimp and Zoodle Stir-fry - Main Course"
+    },
+    {
+      "name": "Broccoli and Cheddar Egg Bake Squares",
+      "category": "Breakfast",
+      "protein": "Eggs/Cheese",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Easy, make-ahead baked egg squares packed with broccoli and cheddar cheese.",
+      "ingredients": [
+        "6-8 large eggs",
+        "1/4 cup heavy cream or unsweetened almond milk",
+        "1 cup steamed or blanched chopped broccoli florets (ensure well-drained and cooled)",
+        "1 cup shredded cheddar cheese",
+        "1/2 teaspoon garlic powder",
+        "Salt and freshly ground black pepper to taste",
+        "Optional: 1/4 cup cooked and crumbled bacon or diced ham"
+      ],
+      "instructions": [
+        "Preheat oven to 350°F (175°C). Grease an 8x8 inch baking dish or a similar sized square/rectangular dish.",
+        "In a large bowl, whisk the eggs with heavy cream or almond milk until well combined.",
+        "Season the egg mixture with salt, pepper, and garlic powder.",
+        "Stir in the steamed/blanched chopped broccoli and shredded cheddar cheese. If using bacon or ham, add it now.",
+        "Pour the egg and broccoli mixture evenly into the prepared baking dish.",
+        "Bake for 20-30 minutes, or until the bake is set, the center no longer jiggles, and the top is lightly golden brown.",
+        "Let cool in the baking dish for 5-10 minutes before slicing into squares.",
+        "Serve warm or cold. These are great for meal prepping breakfasts or snacks."
+      ],
+      "notes": "Recipe 269 - Broccoli and Cheddar Egg Bake Squares - Breakfast"
+    },
+    {
+      "name": "Turkey and Provolone Deli Roll-Ups",
+      "category": "Appetizers/Snacks",
+      "protein": "Turkey/Cheese",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A quick and simple protein-packed snack using deli turkey and provolone cheese.",
+      "ingredients": [
+        "8 slices deli turkey breast (check for low sugar/no fillers)",
+        "8 slices provolone cheese (or Swiss, cheddar)",
+        "Optional spread: 2-3 tablespoons cream cheese, softened, or keto-friendly mayonnaise/mustard",
+        "Optional fillings: Thin dill pickle spears (sugar-free), lettuce leaves, or a few spinach leaves"
+      ],
+      "instructions": [
+        "Lay out the slices of deli turkey flat on a clean work surface.",
+        "If using a spread, thinly spread cream cheese, mayonnaise, or mustard over each turkey slice.",
+        "Place a slice of provolone cheese (or your cheese of choice) on top of each turkey slice.",
+        "If using additional fillings like a pickle spear or lettuce/spinach, place it at one end of the cheese-topped turkey slice.",
+        "Tightly roll up each turkey slice from one end to the other.",
+        "You can serve the roll-ups whole, or secure them with toothpicks and slice them into bite-sized pinwheels if desired.",
+        "Arrange on a platter and serve immediately, or chill for later. An easy, portable snack."
+      ],
+      "notes": "Recipe 270 - Turkey and Provolone Deli Roll-Ups - Appetizers/Snacks"
+    },
+    {
+      "name": "Peanut Butter Cheesecake Fat Bombs",
+      "category": "Desserts",
+      "protein": "N/A",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Creamy, decadent fat bombs that taste like peanut butter cheesecake.",
+      "ingredients": [
+        "4 oz cream cheese, full-fat, softened",
+        "1/4 cup unsalted butter, softened",
+        "1/4 cup unsweetened natural peanut butter (check for no added sugar)",
+        "2-4 tablespoons keto-friendly powdered sweetener (e.g., powdered erythritol, to taste)",
+        "1/2 teaspoon vanilla extract",
+        "Optional: Pinch of salt if peanut butter is unsalted",
+        "Optional coating: Sugar-free chocolate drizzle or chopped peanuts"
+      ],
+      "instructions": [
+        "In a medium bowl, combine softened cream cheese, softened butter, and peanut butter. Beat with an electric mixer (or stir vigorously) until smooth and well combined.",
+        "Add the powdered sweetener, vanilla extract, and salt (if using). Beat again until the mixture is light, fluffy, and fully incorporated.",
+        "Taste and adjust sweetener if needed.",
+        "Chill the mixture in the refrigerator for about 20-30 minutes to firm up slightly, making it easier to handle.",
+        "Roll the mixture into small balls (about 1 inch in diameter).",
+        "If desired, drizzle with melted sugar-free chocolate or roll in chopped peanuts for an extra touch.",
+        "Place the formed fat bombs on a parchment-lined plate or in mini muffin liners.",
+        "Freeze for at least 30-60 minutes, or until firm.",
+        "Store in an airtight container in the refrigerator or freezer. A delicious treat for peanut butter lovers!"
+      ],
+      "notes": "Recipe 271 - Peanut Butter Cheesecake Fat Bombs - Desserts"
+    },
+    {
+      "name": "Lemon Blueberry Fat Bombs",
+      "category": "Desserts",
+      "protein": "N/A",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Refreshing and fruity fat bombs with bright lemon and blueberry flavors.",
+      "ingredients": [
+        "1/2 cup coconut oil, softened",
+        "4 oz cream cheese, softened (optional, for creamier texture)",
+        "Zest of 1 large lemon",
+        "1-2 tablespoons fresh lemon juice (to taste)",
+        "2-3 tablespoons keto-friendly powdered sweetener (e.g., erythritol)",
+        "1/4 cup fresh or frozen blueberries, finely chopped or lightly mashed (if frozen, thaw and pat dry slightly)",
+        "Optional: 1/4 teaspoon vanilla extract"
+      ],
+      "instructions": [
+        "In a medium bowl, combine softened coconut oil (and cream cheese, if using), lemon zest, lemon juice, and powdered sweetener.",
+        "Add vanilla extract if using.",
+        "Beat with an electric mixer or stir vigorously until well combined, smooth, and fluffy.",
+        "Gently fold in the finely chopped or mashed blueberries.",
+        "Taste and adjust sweetener or lemon juice if needed for desired tartness/sweetness.",
+        "Drop by rounded teaspoonfuls onto a parchment-lined plate or use mini muffin liners/silicone molds.",
+        "Freeze for at least 30-60 minutes, or until firm.",
+        "Store in an airtight container in the refrigerator or freezer. A delightful and refreshing fat bomb."
+      ],
+      "notes": "Recipe 272 - Lemon Blueberry Fat Bombs - Desserts"
+    },
+    {
+      "name": "Simplified Coq au Vin (Keto Chicken in Red Wine)",
+      "category": "Main Course",
+      "protein": "Chicken",
+      "diet": "Keto",
+      "difficulty": "Medium",
+      "description": "A keto-friendly, simplified version of the classic French dish with chicken, mushrooms, and bacon in a rich red wine sauce.",
+      "ingredients": [
+        "1.5 - 2 lbs bone-in, skin-on chicken pieces (thighs and/or drumsticks work well)",
+        "4 slices bacon, chopped",
+        "8 oz cremini or button mushrooms, quartered or thickly sliced",
+        "1 small onion, chopped (optional)",
+        "2 cloves garlic, minced",
+        "1 cup dry red wine (e.g., Burgundy, Pinot Noir, Merlot - check carb count)",
+        "1 cup chicken broth",
+        "1 tablespoon tomato paste (no sugar added)",
+        "1 bay leaf",
+        "1 teaspoon dried thyme or a few fresh thyme sprigs",
+        "Salt and freshly ground black pepper to taste",
+        "1-2 tablespoons butter (optional, for finishing sauce)",
+        "Fresh parsley, chopped (for garnish)"
+      ],
+      "instructions": [
+        "Prepare Chicken: Pat chicken pieces dry and season generously with salt and pepper.",
+        "Cook Bacon: In a large Dutch oven or heavy-bottomed pot, cook chopped bacon over medium heat until crispy. Remove bacon with a slotted spoon and set aside on a paper towel-lined plate, reserving about 1-2 tablespoons of bacon grease in the pot.",
+        "Brown Chicken: Increase heat to medium-high. Add chicken pieces to the hot bacon grease (in batches if necessary to avoid overcrowding) and brown well on all sides. Remove browned chicken and set aside.",
+        "Sauté Aromatics: To the same pot, add mushrooms (and onion, if using). Cook, stirring occasionally, until mushrooms are browned and onion is softened (about 5-7 minutes).",
+        "Add minced garlic and cook for 1 minute more until fragrant.",
+        "Make Sauce: Stir in tomato paste. Pour in dry red wine and chicken broth, scraping up any browned bits from the bottom of the pot. Add bay leaf and thyme.",
+        "Bring the sauce to a simmer.",
+        "Simmer Chicken: Return the browned chicken pieces and the cooked bacon to the pot with the sauce. Ensure chicken is mostly submerged. Reduce heat to low, cover the pot, and simmer gently for 45-60 minutes, or until the chicken is very tender and cooked through.",
+        "Finish: Remove chicken pieces to a serving platter and keep warm. If desired, you can skim any excess fat from the sauce surface. If the sauce is too thin, you can simmer it uncovered for another 5-10 minutes to reduce and thicken slightly, or whisk in a small knob of cold butter off the heat for richness. Remove bay leaf and thyme sprigs.",
+        "Serve: Pour the sauce over the chicken. Garnish with fresh chopped parsley. Serve hot with cauliflower mash or steamed green beans."
+      ],
+      "notes": "Recipe 273 - Simplified Coq au Vin (Keto Chicken in Red Wine) - Main Course"
+    },
+    {
+      "name": "Spicy Arrabbiata Sauce with Shirataki Noodles",
+      "category": "Main Course",
+      "protein": "N/A",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "A fiery Italian tomato sauce served over zero-carb shirataki noodles for a satisfying keto pasta alternative.",
+      "ingredients": [
+        "2 (7-8 oz) packages shirataki noodles (spaghetti, fettuccine, or penne style)",
+        "For the Arrabbiata Sauce:",
+        "2 tablespoons olive oil",
+        "3-4 cloves garlic, thinly sliced or minced",
+        "1/2 - 1 teaspoon red pepper flakes (adjust to your spice preference)",
+        "1 (28 oz) can crushed tomatoes or San Marzano tomatoes, (ensure no sugar added)",
+        "1/2 teaspoon dried oregano",
+        "Salt and freshly ground black pepper to taste",
+        "Fresh basil or parsley, chopped (for garnish)",
+        "Optional: Grated Parmesan cheese for serving"
+      ],
+      "instructions": [
+        "Prepare Shirataki Noodles: Open packages of shirataki noodles and rinse them very thoroughly under cold running water for at least 1-2 minutes. This helps remove any residual odor.",
+        "Parboil the rinsed noodles in boiling water for 2-3 minutes. Drain well.",
+        "To further improve texture and remove excess water, dry-fry the drained noodles in a clean, hot, dry non-stick skillet over medium-high heat for 5-8 minutes, tossing or stirring frequently, until they are no longer wet and make a slight squeaking sound. Set aside.",
+        "Make Arrabbiata Sauce: Heat olive oil in a medium saucepan or deep skillet over medium heat.",
+        "Add sliced/minced garlic and red pepper flakes. Cook for 1-2 minutes, stirring constantly, until the garlic is fragrant and lightly golden, and the red pepper flakes are toasted (be careful not to burn the garlic).",
+        "Carefully pour in the crushed tomatoes. Stir in dried oregano.",
+        "Bring the sauce to a simmer. Reduce heat to low, cover partially, and let it cook for at least 15-20 minutes (or longer for deeper flavor), stirring occasionally, until the sauce has thickened slightly.",
+        "Season the Arrabbiata sauce with salt and black pepper to taste.",
+        "Combine and Serve: Add the prepared shirataki noodles to the saucepan with the Arrabbiata sauce. Toss well to coat the noodles evenly with the sauce and heat through for a couple of minutes.",
+        "Stir in most of the chopped fresh basil or parsley, reserving some for garnish.",
+        "Serve hot, garnished with the remaining fresh herbs and grated Parmesan cheese if desired. A zesty and satisfying meal."
+      ],
+      "notes": "Recipe 274 - Spicy Arrabbiata Sauce with Shirataki Noodles - Main Course"
+    },
+    {
+      "name": "Quick Pork Steaks with Sautéed Garlic Spinach",
+      "category": "Main Course",
+      "protein": "Pork",
+      "diet": "Keto",
+      "difficulty": "Easy",
+      "description": "Simply seasoned and quickly pan-fried pork steaks served with a flavorful side of garlic sautéed spinach.",
+      "ingredients": [
+        "2-4 thin-cut pork steaks (e.g., pork shoulder blade steaks, about 1/2-inch thick)",
+        "1 tablespoon olive oil or avocado oil, divided",
+        "Seasoning for Pork: Salt, black pepper, garlic powder, paprika",
+        "For the Sautéed Spinach:",
+        "5-6 oz fresh baby spinach",
+        "1-2 cloves garlic, minced or thinly sliced",
+        "Optional: Squeeze of fresh lemon juice, pinch of red pepper flakes"
+      ],
+      "instructions": [
+        "Prepare Pork Steaks: Pat the pork steaks dry with paper towels. Season generously on both sides with salt, black pepper, garlic powder, and paprika.",
+        "Cook Pork Steaks: Heat about 1/2 tablespoon of olive/avocado oil in a large skillet over medium-high heat.",
+        "Carefully place the seasoned pork steaks in the hot skillet (do not overcrowd; cook in batches if necessary). Cook for 3-5 minutes per side, or until nicely browned and cooked through (internal temperature of 145°F or 63°C). Cooking time will depend on the thickness of the steaks.",
+        "Remove the cooked pork steaks from the skillet, transfer to a plate, and tent loosely with foil to keep warm.",
+        "Sauté Spinach: To the same skillet (no need to wipe, unless there are burnt bits), add the remaining 1/2 tablespoon of olive/avocado oil if the pan seems dry. Reduce heat to medium.",
+        "Add minced/sliced garlic (and red pepper flakes, if using) to the skillet. Cook for about 30 seconds until fragrant, being careful not to burn the garlic.",
+        "Add the fresh baby spinach to the skillet (it may seem like a lot, but it will wilt down significantly). Toss or stir gently as it cooks.",
+        "Cook for 2-4 minutes, just until the spinach is wilted to your liking.",
+        "Remove from heat. If desired, squeeze a little fresh lemon juice over the spinach and season lightly with salt and pepper to taste.",
+        "Serve: Serve the pan-fried pork steaks alongside the sautéed garlic spinach. A very quick and easy weeknight meal."
+      ],
+      "notes": "Recipe 275 - Quick Pork Steaks with Sautéed Garlic Spinach - Main Course"
     }
   ]
 }

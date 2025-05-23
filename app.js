@@ -1,4 +1,3 @@
-
 window.addEventListener('DOMContentLoaded', () => {
     let recipes = [];
     let previousFilter = { category: 'All', protein: '', search: '' };
@@ -32,7 +31,7 @@ window.addEventListener('DOMContentLoaded', () => {
         document.getElementById('single-recipe').style.display = 'none';
         document.getElementById('keto-info').style.display = 'none';
         previousFilter.category = 'All';
-        searchRecipes();
+        searchRecipes(); // This will apply current filters including protein and search
     }
 
     function showByCategory() {
@@ -42,7 +41,7 @@ window.addEventListener('DOMContentLoaded', () => {
         document.getElementById('single-recipe').style.display = 'none';
         document.getElementById('keto-info').style.display = 'none';
         previousFilter.category = 'ByCategory';
-        filterByCategoryView();
+        filterByCategoryView(); // This will apply current filters including protein and search
     }
 
     function showKetoInfo() {
@@ -71,16 +70,42 @@ window.addEventListener('DOMContentLoaded', () => {
         const categoryList = document.getElementById('category-list');
         categoryList.innerHTML = '';
         const categoriesOrder = ["Appetizers/Snacks", "Breakfast", "Soups and Salads", "Main Course", "Desserts", "Drinks"];
+        const lowerSearchQuery = previousFilter.search ? previousFilter.search.toLowerCase() : '';
 
         categoriesOrder.forEach(category => {
             const filtered = recipes.filter(r => {
-                const matchProtein = !previousFilter.protein || r.protein === previousFilter.protein;
-                const matchSearch = !previousFilter.search || (
-                    r.name.toLowerCase().includes(previousFilter.search.toLowerCase()) ||
-                    r.description.toLowerCase().includes(previousFilter.search.toLowerCase()) ||
-                    r.instructions.toLowerCase().includes(previousFilter.search.toLowerCase()) ||
-                    r.ingredients.join(', ').toLowerCase().includes(previousFilter.search.toLowerCase())
-                );
+                const selectedProteinFilter = previousFilter.protein;
+                const recipeProteinValue = r.protein;
+                let matchProtein = !selectedProteinFilter; // Default to true if no protein filter
+
+                if (selectedProteinFilter) {
+                    if (selectedProteinFilter === "Egg/Other") {
+                        matchProtein = (
+                            recipeProteinValue === "Eggs" ||
+                            recipeProteinValue === "Sausage/Eggs" ||
+                            recipeProteinValue === "Egg/Other"
+                        );
+                    } else if (selectedProteinFilter === "Fish/Seafood") {
+                        matchProtein = (
+                            recipeProteinValue === "Fish" ||
+                            recipeProteinValue === "Salmon" ||
+                            recipeProteinValue === "Shrimp" ||
+                            recipeProteinValue === "Fish/Seafood"
+                        );
+                    } else {
+                        matchProtein = (recipeProteinValue === selectedProteinFilter);
+                    }
+                }
+
+                let matchSearch = true; 
+                if (lowerSearchQuery) { 
+                    const nameMatch = r.name.toLowerCase().includes(lowerSearchQuery);
+                    const descriptionMatch = r.description.toLowerCase().includes(lowerSearchQuery);
+                    const instructionsMatch = r.instructions.join(' ').toLowerCase().includes(lowerSearchQuery);
+                    const ingredientsMatch = r.ingredients.join(', ').toLowerCase().includes(lowerSearchQuery);
+                    matchSearch = nameMatch || descriptionMatch || instructionsMatch || ingredientsMatch;
+                }
+                
                 return r.category === category && matchProtein && matchSearch;
             }).sort((a, b) => a.name.localeCompare(b.name));
 
@@ -149,17 +174,36 @@ window.addEventListener('DOMContentLoaded', () => {
         }
 
         let filtered = recipes;
+
         if (previousFilter.protein) {
-            filtered = filtered.filter(r => r.protein === previousFilter.protein);
+            const selectedProtein = previousFilter.protein;
+            if (selectedProtein === "Egg/Other") {
+                filtered = filtered.filter(r => 
+                    r.protein === "Eggs" || 
+                    r.protein === "Sausage/Eggs" || 
+                    r.protein === "Egg/Other"
+                );
+            } else if (selectedProtein === "Fish/Seafood") {
+                filtered = filtered.filter(r => 
+                    r.protein === "Fish" || 
+                    r.protein === "Salmon" || 
+                    r.protein === "Shrimp" || 
+                    r.protein === "Fish/Seafood"
+                );
+            } else {
+                filtered = filtered.filter(r => r.protein === selectedProtein);
+            }
         }
+
         if (query) {
             const lowerQuery = query.toLowerCase();
-            filtered = filtered.filter(r =>
-                r.name.toLowerCase().includes(lowerQuery) ||
-                r.description.toLowerCase().includes(lowerQuery) ||
-                r.instructions.toLowerCase().includes(lowerQuery) ||
-                r.ingredients.join(', ').toLowerCase().includes(query)
-            );
+            filtered = filtered.filter(r => {
+                const nameMatch = r.name.toLowerCase().includes(lowerQuery);
+                const descriptionMatch = r.description.toLowerCase().includes(lowerQuery);
+                const instructionsMatch = r.instructions.join(' ').toLowerCase().includes(lowerQuery);
+                const ingredientsMatch = r.ingredients.join(', ').toLowerCase().includes(lowerQuery);
+                return nameMatch || descriptionMatch || instructionsMatch || ingredientsMatch;
+            });
         }
         displayRecipes(filtered);
     }
@@ -172,36 +216,44 @@ window.addEventListener('DOMContentLoaded', () => {
         if (getCurrentView() === 'category') {
             filterByCategoryView();
         } else if (getCurrentView() === 'info') {
-            showAll();
-        } else {
+            // If on Keto Info page and a protein is selected, switch to All Recipes view
+            showAll(); 
+        } else { // 'all' view
             searchRecipes();
         }
     }
 
     function clearProtein() {
-        document.getElementById('protein-filter').value = '';
+        document.getElementById('protein-filter').value = ''; // Reset dropdown
         previousFilter.protein = '';
         updateProteinButton();
-        searchRecipes();
+        
+        // Re-apply search or show all based on current view
+        if (getCurrentView() === 'category') {
+            filterByCategoryView();
+        } else { // 'all' or 'info' view
+            searchRecipes(); // This will now use the cleared protein filter
+        }
     }
 
     function updateProteinButton() {
         const protein = document.getElementById('protein-filter').value;
         const button = document.getElementById('protein-reset');
-        if (!button) return;
-        if (!protein) {
+        if (!button) return; // Should not happen but good check
+        if (!protein) { // No protein selected or "All Proteins"
             button.innerHTML = '✅ All proteins shown';
         } else {
-            button.innerHTML = '⚠️ Clear Protein Filter';
+            button.innerHTML = `⚠️ ${protein} selected (Clear)`;
         }
     }
 
+    // Make functions available globally for inline HTML event handlers
     window.showAll = showAll;
     window.showByCategory = showByCategory;
     window.showKetoInfo = showKetoInfo;
-    window.searchRecipes = searchRecipes;
-    window.filterProtein = filterProtein;
+    window.searchRecipes = searchRecipes; // This is called oninput by search bar
+    window.filterProtein = filterProtein; // This is called onchange by protein dropdown
     window.goBack = goBack;
     window.clearProtein = clearProtein;
-    window.updateProteinButton = updateProteinButton;
+    window.updateProteinButton = updateProteinButton; // Called internally
 });
